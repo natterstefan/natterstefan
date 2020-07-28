@@ -16,7 +16,7 @@ You can see what I am currently up to on [natterstefan.me][1].
 
 📧 Sign up for my [newsletter][5].
 
-## My Digital Garden 🌳
+## 🌳 My Digital Garden
 
 You can find my blog posts on [dev.to/natterstefan][4]. I write about things
 I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS**.
