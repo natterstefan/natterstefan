@@ -25,6 +25,11 @@ I also do reviews of software and hardware.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 3 snippet managers and collection tools increase your productivity. [Week 30/2020 in Review]](https://dev.to/natterstefan/these-snippet-managers-and-snippets-collection-tools-increase-your-productivity-week-30-2020-in-review-102i)
+- [I take my notes in Notion and Roam Research, and you?  [Week 29/2020 in Review]](https://dev.to/natterstefan/i-take-my-notes-in-notion-and-roam-research-and-you-week-29-2020-in-review-3fbb)
+- [How does your GitHub profile README look like? [Week 28/2020 in Review]](https://dev.to/natterstefan/how-does-your-github-profile-readme-look-like-week-28-2020-in-review-4n95)
+- [How to add a README to your GitHub profile](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
+- [Enhance your git commands with ASCII Art ☜(˚▽˚)☞](https://dev.to/natterstefan/enhance-your-git-commands-with-ascii-art-2mk5)
 <!-- BLOG-POST-LIST:END -->
 
 [1]: https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
