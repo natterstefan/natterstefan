@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://res.cloudinary.com/dgqdvqyz3/image/upload/f_auto,q_100/v1594274395/social-media/gh-banner.jpg)][1]
+[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500][1]
 
 Hey 👋🏻,
 
@@ -31,6 +31,18 @@ I also do reviews of software and hardware.
 - [I take my notes in Notion and Roam Research, and you?  [Week 29/2020 in Review]](https://dev.to/natterstefan/i-take-my-notes-in-notion-and-roam-research-and-you-week-29-2020-in-review-3fbb)
 - [How does your GitHub profile README look like? [Week 28/2020 in Review]](https://dev.to/natterstefan/how-does-your-github-profile-readme-look-like-week-28-2020-in-review-4n95)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
 
 [1]: https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
 [2]: https://www.linkedin.com/in/natterstefan
