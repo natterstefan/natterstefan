@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500][1]
+[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500)][1]
 
 Hey 👋🏻,
 
@@ -31,8 +31,6 @@ I also do reviews of software and hardware.
 - [I take my notes in Notion and Roam Research, and you?  [Week 29/2020 in Review]](https://dev.to/natterstefan/i-take-my-notes-in-notion-and-roam-research-and-you-week-29-2020-in-review-3fbb)
 - [How does your GitHub profile README look like? [Week 28/2020 in Review]](https://dev.to/natterstefan/how-does-your-github-profile-readme-look-like-week-28-2020-in-review-4n95)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ## &#x1f4c8; My GitHub Stats
 
