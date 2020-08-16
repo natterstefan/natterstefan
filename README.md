@@ -3,7 +3,7 @@
 Hey 👋🏻,
 
 I am a Software Engineer from Austria 🇦🇹. I write blog posts and open source
-solutions about JavaScript, TypeScript, and ReactJS.
+solutions about JavaScript, TypeScript, ReactJS, and NodeJS.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
