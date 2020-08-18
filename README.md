@@ -24,11 +24,11 @@ I also do reviews of software and hardware.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Storybook 6.0 was released [Week 33/20 in Review]](https://dev.to/natterstefan/storybook-6-0-was-released-week-33-20-in-review-3e6k)
 - [My Top 22 Chrome Extensions [Week 32/2020 in Review]](https://dev.to/natterstefan/my-top-22-chrome-extensions-week-32-2020-in-review-1224)
 - [Three CLI Tools I use every day [Week 31/2020 in Review]](https://dev.to/natterstefan/three-cli-tools-i-use-every-day-week-31-2020-in-review-5g7)
 - ["Improve Your Online Presence" by Catalin Pit [Book Review]](https://dev.to/natterstefan/improve-your-online-presence-by-catalin-pit-book-review-1558)
 - [These 3 snippet managers and collection tools increase your productivity. [Week 30/2020 in Review]](https://dev.to/natterstefan/these-snippet-managers-and-snippets-collection-tools-increase-your-productivity-week-30-2020-in-review-102i)
-- [I take my notes in Notion and Roam Research, and you?  [Week 29/2020 in Review]](https://dev.to/natterstefan/i-take-my-notes-in-notion-and-roam-research-and-you-week-29-2020-in-review-3fbb)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
