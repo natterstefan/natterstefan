@@ -9,7 +9,10 @@ You can see what I am currently up to on [natterstefan.me][1].
 ## 📬 Get in touch
 
 - Twitter: [twitter.com/natterstefan][3]
-- Blog: [dev.to/natterstefan][4]
+- Blogs
+  - [dev.to/natterstefan][4]
+  - [medium.com/@natterstefan][6]
+  - [hashnode.com/@natterstefan][7]
 - Web: [natterstefan.me][1]
 - LinkedIn: [linkedin.com/in/natterstefan][2]
 
@@ -18,8 +21,8 @@ You can see what I am currently up to on [natterstefan.me][1].
 ## 🌳 My Digital Garden
 
 You can find my blog posts on [dev.to/natterstefan][4]. I write about things
-I am familiar with including **JavaScript**, **TypeScript**, and **ReactJS**.
-I also do reviews of software and hardware.
+I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
+**NodeJS**. I also do reviews of software and hardware.
 
 ## 📕 Latest Blog Posts
 
@@ -46,3 +49,5 @@ I also do reviews of software and hardware.
 [3]: https://www.twitter.com/natterstefan
 [4]: https://dev.to/natterstefan
 [5]: https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
+[6]: https://medium.com/@natterstefan
+[7]: https://hashnode.com/@natterstefan
