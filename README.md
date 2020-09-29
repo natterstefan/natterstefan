@@ -31,11 +31,11 @@ I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Practice typing error-free and fast with the keyboard [Week 39/20 in Review]](https://dev.to/natterstefan/practice-typing-error-free-and-fast-with-the-keyboard-week-39-20-in-review-3c0c)
 - [Organize your GitHub Stars with Astral  [Week 38/20 in Review]](https://dev.to/natterstefan/organize-your-github-stars-with-astral-week-38-20-in-review-1o3d)
 - [Lazy loading React components with loadable components [Week 37/20 in Review]](https://dev.to/natterstefan/lazy-loading-react-components-with-loadable-components-week-37-20-in-review-47p0)
 - [Do something .new [Week 36/20 in Review]](https://dev.to/natterstefan/do-something-new-week-36-20-in-review-151n)
 - [Discover Dev News with every new tab you open - thanks to daily.dev! [Week 35/20 in Review]](https://dev.to/natterstefan/discover-dev-news-with-every-new-tab-you-open-thanks-to-daily-dev-week-35-20-in-review-5kb)
-- [Manage your Chrome tabs like a Pro with Workona [Week 34/20 in Review]](https://dev.to/natterstefan/manage-your-chrome-tabs-like-a-pro-with-workona-week-34-20-in-review-21ml)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
