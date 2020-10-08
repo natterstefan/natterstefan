@@ -39,7 +39,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 - [Do something .new [Week 36/20 in Review]](https://dev.to/natterstefan/do-something-new-week-36-20-in-review-151n)
 <!-- BLOG-POST-LIST:END -->
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
