@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@94531d3fc177a2753683dc4342c10aa4420fc4f1
         with:
           feed_list: "https://blog.natterstefan.me/rss.xml"
