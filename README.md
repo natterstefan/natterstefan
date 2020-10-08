@@ -39,6 +39,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 - [Do something .new [Week 36/20 in Review]](https://dev.to/natterstefan/do-something-new-week-36-20-in-review-151n)
 <!-- BLOG-POST-LIST:END -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
