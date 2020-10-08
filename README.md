@@ -42,6 +42,12 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
+2. 🗣 Commented on [#12](https://github.com/tylerwolff/useCookie/issues/12) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+3. 🗣 Commented on [#13](https://github.com/tylerwolff/useCookie/issues/13) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+4. 💪 Opened PR [#13](https://github.com/tylerwolff/useCookie/pull/13) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+5. 💪 Opened PR [#12](https://github.com/tylerwolff/useCookie/pull/12) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+<!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 
