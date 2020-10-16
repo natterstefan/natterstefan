@@ -43,10 +43,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
-2. 💪 Opened PR [#107](https://github.com/exelban/stats/pull/107) in [exelban/stats](https://github.com/exelban/stats)
-3. 🎉 Merged PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
-4. 💪 Opened PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
-5. 🗣 Commented on [#12](https://github.com/tylerwolff/useCookie/issues/12) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+2. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
+3. 💪 Opened PR [#107](https://github.com/exelban/stats/pull/107) in [exelban/stats](https://github.com/exelban/stats)
+4. 🎉 Merged PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
+5. 💪 Opened PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
