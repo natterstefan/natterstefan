@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
+1. 🎉 Merged PR [#7](https://github.com/natterstefan/zoom-slack-status-updater/pull/7) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
 2. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
-3. 💪 Opened PR [#107](https://github.com/exelban/stats/pull/107) in [exelban/stats](https://github.com/exelban/stats)
-4. 🎉 Merged PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
-5. 💪 Opened PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
+3. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
+4. 💪 Opened PR [#107](https://github.com/exelban/stats/pull/107) in [exelban/stats](https://github.com/exelban/stats)
+5. 🎉 Merged PR [#2](https://github.com/natterstefan/eslint-config-ns-ts/pull/2) in [natterstefan/eslint-config-ns-ts](https://github.com/natterstefan/eslint-config-ns-ts)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
