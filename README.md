@@ -32,11 +32,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove backgrounds from images in seconds with remove.bg [Week 42/20 in Review]](https://blog.natterstefan.me/remove-backgrounds-from-images-in-seconds-with-removebg-week-4220-in-review)
+- [Experience how "artificial intelligence" judges your face [Week 41/20 in Review]](https://blog.natterstefan.me/experience-how-artificial-intelligence-judges-your-face-week-4120-in-review)
+- [Summarize any text with “TLDR This” in a click [Week 40/20 in Review]](https://blog.natterstefan.me/summarize-any-text-with-tldr-this-in-a-click-week-4020-in-review)
 - [Practice typing error-free and fast with the keyboard [Week 39/20 in Review]](https://blog.natterstefan.me/practice-typing-error-free-and-fast-with-the-keyboard-week-3920-in-review)
 - [Organize your GitHub Stars with Astral  [Week 38/20 in Review]](https://blog.natterstefan.me/organize-your-github-stars-with-astral-week-3820-in-review)
-- [Lazy loading React components with loadable components [Week 37/20 in Review]](https://blog.natterstefan.me/lazy-loading-react-components-with-loadable-components-week-3720-in-review)
-- [Do something .new [Week 36/20 in Review]](https://blog.natterstefan.me/do-something-new-week-3620-in-review)
-- [Discover Dev News with every new tab you open - thanks to daily.dev!  [Week 35/20 in Review]](https://blog.natterstefan.me/discover-dev-news-with-every-new-tab-you-open-thanks-to-dailydev-week-3520-in-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
