@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-2. ❗️ Opened issue [#8](https://github.com/natterstefan/zoom-slack-status-updater/issues/8) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-3. 🎉 Merged PR [#7](https://github.com/natterstefan/zoom-slack-status-updater/pull/7) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-4. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
-5. 🗣 Commented on [#107](https://github.com/exelban/stats/issues/107) in [exelban/stats](https://github.com/exelban/stats)
+1. 💪 Opened PR [#63](https://github.com/natterstefan/react-component-catalog/pull/63) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+2. 🗣 Commented on [#23](https://github.com/natterstefan/eslint-config-ns/issues/23) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. ❗️ Opened issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+4. ❗️ Opened issue [#8](https://github.com/natterstefan/zoom-slack-status-updater/issues/8) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+5. 🎉 Merged PR [#7](https://github.com/natterstefan/zoom-slack-status-updater/pull/7) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
