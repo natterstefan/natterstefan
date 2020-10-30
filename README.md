@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/natterstefan/react-component-catalog/pull/64) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-2. 🗣 Commented on [#55](https://github.com/natterstefan/react-component-catalog/issues/55) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-3. 🗣 Commented on [#60](https://github.com/natterstefan/react-component-catalog/issues/60) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-4. 🗣 Commented on [#58](https://github.com/natterstefan/react-component-catalog/issues/58) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-5. 💪 Opened PR [#64](https://github.com/natterstefan/react-component-catalog/pull/64) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+1. 🗣 Commented on [#6](https://github.com/natterstefan/editorjs-inline-tool/issues/6) in [natterstefan/editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool)
+2. 🎉 Merged PR [#64](https://github.com/natterstefan/react-component-catalog/pull/64) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+3. 🗣 Commented on [#55](https://github.com/natterstefan/react-component-catalog/issues/55) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+4. 🗣 Commented on [#60](https://github.com/natterstefan/react-component-catalog/issues/60) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+5. 🗣 Commented on [#58](https://github.com/natterstefan/react-component-catalog/issues/58) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
