@@ -32,11 +32,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My favorite Git GUI client for 2020 [Week 44/20 in Review]](https://blog.natterstefan.me/my-favorite-git-gui-client-for-2020-week-4420-in-review)
 - [[Tutorial] How to play Among Us on your Mac](https://blog.natterstefan.me/tutorial-how-to-play-among-us-on-your-mac)
 - [5 free MacOS Apps to Make Everyday Life Easier [Week 43/20 in Review]](https://blog.natterstefan.me/5-free-macos-apps-to-make-everyday-life-easier-week-4320-in-review)
 - [Remove backgrounds from images in seconds with remove.bg [Week 42/20 in Review]](https://blog.natterstefan.me/remove-backgrounds-from-images-in-seconds-with-removebg-week-4220-in-review)
 - [Experience how "artificial intelligence" judges your face [Week 41/20 in Review]](https://blog.natterstefan.me/experience-how-artificial-intelligence-judges-your-face-week-4120-in-review)
-- [Summarize any text with “TLDR This” in a click [Week 40/20 in Review]](https://blog.natterstefan.me/summarize-any-text-with-tldr-this-in-a-click-week-4020-in-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
