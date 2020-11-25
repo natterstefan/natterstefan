@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
-2. 🗣 Commented on [#8987](https://github.com/facebook/jest/issues/8987) in [facebook/jest](https://github.com/facebook/jest)
-3. 🗣 Commented on [#81](https://github.com/liady/webpack-node-externals/issues/81) in [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals)
-4. 🗣 Commented on [#6](https://github.com/natterstefan/editorjs-inline-tool/issues/6) in [natterstefan/editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool)
-5. 🎉 Merged PR [#64](https://github.com/natterstefan/react-component-catalog/pull/64) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+1. 🗣 Commented on [#84](https://github.com/tameemsafi/typewriterjs/issues/84) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+2. ❗️ Opened issue [#91](https://github.com/tameemsafi/typewriterjs/issues/91) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+3. 🗣 Commented on [#82](https://github.com/tameemsafi/typewriterjs/issues/82) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+4. ❗️ Opened issue [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
+5. 🗣 Commented on [#8987](https://github.com/facebook/jest/issues/8987) in [facebook/jest](https://github.com/facebook/jest)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
