@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
-2. 🗣 Commented on [#84](https://github.com/tameemsafi/typewriterjs/issues/84) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
-3. ❗️ Opened issue [#91](https://github.com/tameemsafi/typewriterjs/issues/91) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
-4. 🗣 Commented on [#82](https://github.com/tameemsafi/typewriterjs/issues/82) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
-5. ❗️ Opened issue [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
+1. 🗣 Commented on [#93](https://github.com/staylor/react-helmet-async/issues/93) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
+2. 🗣 Commented on [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
+3. 🗣 Commented on [#84](https://github.com/tameemsafi/typewriterjs/issues/84) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+4. ❗️ Opened issue [#91](https://github.com/tameemsafi/typewriterjs/issues/91) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
+5. 🗣 Commented on [#82](https://github.com/tameemsafi/typewriterjs/issues/82) in [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
