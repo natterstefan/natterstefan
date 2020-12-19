@@ -42,11 +42,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/gregberge/loadable-components/issues/314) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
-2. 💪 Opened PR [#1](https://github.com/andreynocap/roamjs-finance/pull/1) in [andreynocap/roamjs-finance](https://github.com/andreynocap/roamjs-finance)
-3. ❗️ Opened issue [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. 🗣 Commented on [#93](https://github.com/staylor/react-helmet-async/issues/93) in [staylor/react-helmet-async](https://github.com/staylor/react-helmet-async)
-5. 🗣 Commented on [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
+1. 🎉 Merged PR [#2](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/2) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
+2. 💪 Opened PR [#2](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/2) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
+3. 🗣 Commented on [#314](https://github.com/gregberge/loadable-components/issues/314) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
+4. 💪 Opened PR [#1](https://github.com/andreynocap/roamjs-finance/pull/1) in [andreynocap/roamjs-finance](https://github.com/andreynocap/roamjs-finance)
+5. ❗️ Opened issue [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
