@@ -32,11 +32,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review Episode 30 - Time for a feedback round.](https://blog.natterstefan.me/week-in-review-episode-30-time-for-a-feedback-round)
 - [6 Open Source Tools to create inspiring presentations](https://blog.natterstefan.me/6-open-source-tools-to-create-inspiring-presentations)
 - [📺 I started streaming on Twitch and YouTube! [Week in Review]](https://blog.natterstefan.me/i-started-streaming-on-twitch-and-youtube-week-in-review)
 - [Monitor your website's uptime and present results on a status page with GitHub Actions.](https://blog.natterstefan.me/monitor-your-websites-uptime-and-present-results-on-a-status-page-with-github-actions)
 - [How To Quickly Create a Desktop for your Digital Life.](https://blog.natterstefan.me/how-to-quickly-create-a-desktop-for-your-digital-life)
-- [How to extract text from graphics and digital documents in seconds [Week 45/20 in Review]](https://blog.natterstefan.me/how-to-extract-text-from-graphics-and-digital-documents-in-seconds-week-4520-in-review)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
