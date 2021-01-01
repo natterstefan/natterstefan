@@ -1,8 +1,10 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1594729195/1500x500)][1]
+[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1609525620/1500x500)][1]
 
 Hey 👋🏻,
 
-I am a Software Engineer from Austria 🇦🇹. I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
+I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
+🇦🇹. I am interested in, write about and develop (open source) software solutions
+for and with JavaScript, TypeScript, ReactJs and NodeJS.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
@@ -21,8 +23,8 @@ You can see what I am currently up to on [natterstefan.me][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things
-I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
+You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
+am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 **NodeJS**. I also do reviews of software and hardware.
 
 ## 🤜🏻🤛🏻 Support Me
@@ -59,11 +61,13 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-[1]: https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
+[1]:
+  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
 [2]: https://www.linkedin.com/in/natterstefan
 [3]: https://www.twitter.com/natterstefan
 [4]: https://blog.natterstefan.me
-[5]: https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
+[5]:
+  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
 [6]: https://medium.com/@natterstefan
 [7]: https://hashnode.com/@natterstefan
 [8]: https://nttr.st/2QoQhEb
