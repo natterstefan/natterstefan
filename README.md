@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/roamhacker/SmartBlocks/issues/2) in [roamhacker/SmartBlocks](https://github.com/roamhacker/SmartBlocks)
-2. 🗣 Commented on [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
-3. 💪 Opened PR [#5](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/5) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
-4. 🎉 Merged PR [#4](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/4) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
-5. 🗣 Commented on [#24](https://github.com/MarkoDenic/awesome-tech-blogs/issues/24) in [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs)
+1. 💪 Opened PR [#12](https://github.com/natterstefan/zoom-slack-status-updater/pull/12) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+2. 🗣 Commented on [#2](https://github.com/roamhacker/SmartBlocks/issues/2) in [roamhacker/SmartBlocks](https://github.com/roamhacker/SmartBlocks)
+3. 🗣 Commented on [#74](https://github.com/Learus/react-material-ui-carousel/issues/74) in [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel)
+4. 💪 Opened PR [#5](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/5) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
+5. 🎉 Merged PR [#4](https://github.com/natterstefan/nextjs-tailwind-apollo-example/pull/4) in [natterstefan/nextjs-tailwind-apollo-example](https://github.com/natterstefan/nextjs-tailwind-apollo-example)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
