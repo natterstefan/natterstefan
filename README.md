@@ -34,11 +34,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create your first ESLint Plugin [Week in Review]](https://blog.natterstefan.me/how-to-create-your-first-eslint-plugin-week-in-review)
 - [15 Games to Play for Your Next Virtual Game Night](https://blog.natterstefan.me/15-games-to-play-for-your-next-virtual-game-night)
 - [Week in Review Episode 30 - Time for a feedback round.](https://blog.natterstefan.me/week-in-review-episode-30-time-for-a-feedback-round)
 - [6 Open Source Tools to create inspiring presentations](https://blog.natterstefan.me/6-open-source-tools-to-create-inspiring-presentations)
 - [📺 I started streaming on Twitch and YouTube! [Week in Review]](https://blog.natterstefan.me/i-started-streaming-on-twitch-and-youtube-week-in-review)
-- [Monitor your website's uptime and present results on a status page with GitHub Actions.](https://blog.natterstefan.me/monitor-your-websites-uptime-and-present-results-on-a-status-page-with-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
