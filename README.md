@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-2. 🗣 Commented on [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-3. 🎉 Merged PR [#12](https://github.com/natterstefan/zoom-slack-status-updater/pull/12) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-4. 💪 Opened PR [#12](https://github.com/natterstefan/zoom-slack-status-updater/pull/12) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-5. 🗣 Commented on [#2](https://github.com/roamhacker/SmartBlocks/issues/2) in [roamhacker/SmartBlocks](https://github.com/roamhacker/SmartBlocks)
+1. 🗣 Commented on [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. ❗️ Closed issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+3. 🗣 Commented on [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+4. 🎉 Merged PR [#12](https://github.com/natterstefan/zoom-slack-status-updater/pull/12) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+5. 💪 Opened PR [#12](https://github.com/natterstefan/zoom-slack-status-updater/pull/12) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
