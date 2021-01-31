@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-2. 💪 Opened PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-3. 🗣 Commented on [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. ❗️ Closed issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
-5. 🗣 Commented on [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
+1. 🎉 Merged PR [#2](https://github.com/natterstefan/social-data-dashboard/pull/2) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
+2. 🎉 Merged PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
+3. 💪 Opened PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
+4. 🗣 Commented on [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. ❗️ Closed issue [#9](https://github.com/natterstefan/zoom-slack-status-updater/issues/9) in [natterstefan/zoom-slack-status-updater](https://github.com/natterstefan/zoom-slack-status-updater)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
