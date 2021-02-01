@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/natterstefan/react-component-catalog/issues/67) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-2. 🎉 Merged PR [#2](https://github.com/natterstefan/social-data-dashboard/pull/2) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-3. 🎉 Merged PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-4. 💪 Opened PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-5. 🗣 Commented on [#4](https://github.com/natterstefan/jest-preset-ns/issues/4) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+1. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+2. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+3. 🗣 Commented on [#67](https://github.com/natterstefan/react-component-catalog/issues/67) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+4. 🎉 Merged PR [#2](https://github.com/natterstefan/social-data-dashboard/pull/2) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
+5. 🎉 Merged PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
