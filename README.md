@@ -34,11 +34,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dash + Alfred - instantly search offline documentation sets for 200+ APIs, 100+ cheat sheets, and more!](https://blog.natterstefan.me/dash-alfred-instantly-search-offline-documentation-sets-for-200-apis-100-cheat-sheets-and-more)
 - [Easy to use Dockerfile for your next Node.js Project](https://blog.natterstefan.me/easy-to-use-dockerfile-for-your-next-nodejs-project)
 - [The "#90DaysOfProse - Make Writing a Habit" challenge.](https://blog.natterstefan.me/the-90daysofprose-make-writing-a-habit-challenge)
 - [Discussion: NextJS or Create-React-App for a back-office application? [Week in Review]](https://blog.natterstefan.me/discussion-nextjs-or-create-react-app-for-a-back-office-application-week-in-review)
 - [How to create your first ESLint Plugin [Week in Review]](https://blog.natterstefan.me/how-to-create-your-first-eslint-plugin-week-in-review)
-- [15 Games to Play for Your Next Virtual Game Night](https://blog.natterstefan.me/15-games-to-play-for-your-next-virtual-game-night)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
