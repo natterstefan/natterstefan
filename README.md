@@ -34,11 +34,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add custom Code Snippets in VS Code](https://blog.natterstefan.me/how-to-add-custom-code-snippets-in-vs-code)
 - [How to add your GitHub activities to your GitHub Profile](https://blog.natterstefan.me/how-to-add-your-github-activities-to-your-github-profile)
 - [How to present your latest blog posts and YouTube videos on your GitHub profile](https://blog.natterstefan.me/how-to-present-your-latest-blog-posts-and-youtube-videos-on-your-github-profile)
 - [Speed up your Typing on iOS with Text Replacements](https://blog.natterstefan.me/speed-up-your-typing-on-ios-with-text-replacements)
 - [Make Console Logging in VS Code 10x Faster with Turbo Console Log](https://blog.natterstefan.me/make-console-logging-in-vs-code-10x-faster-with-turbo-console-log)
-- [Dash + Alfred - instantly search offline documentation sets for 200+ APIs, 100+ cheat sheets, and more!](https://blog.natterstefan.me/dash-alfred-instantly-search-offline-documentation-sets-for-200-apis-100-cheat-sheets-and-more)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
