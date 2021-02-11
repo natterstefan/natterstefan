@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-2. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-3. 🗣 Commented on [#67](https://github.com/natterstefan/react-component-catalog/issues/67) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-4. 🎉 Merged PR [#2](https://github.com/natterstefan/social-data-dashboard/pull/2) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
-5. 🎉 Merged PR [#1](https://github.com/natterstefan/social-data-dashboard/pull/1) in [natterstefan/social-data-dashboard](https://github.com/natterstefan/social-data-dashboard)
+1. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+2. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+3. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+4. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+5. 🗣 Commented on [#67](https://github.com/natterstefan/react-component-catalog/issues/67) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
