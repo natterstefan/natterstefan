@@ -44,11 +44,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
-2. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
-3. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-4. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-5. 🗣 Commented on [#67](https://github.com/natterstefan/react-component-catalog/issues/67) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+1. ❗️ Opened issue [#6](https://github.com/natterstefan/jest-preset-ns/issues/6) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+3. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+4. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+5. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
