@@ -34,11 +34,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Else Wants an Easy To use Color Picker for macOS?](https://blog.natterstefan.me/who-else-wants-an-easy-to-use-color-picker-for-macos)
 - [How to use shared settings and recommended extensions in a team in VS Code.](https://blog.natterstefan.me/how-to-use-shared-settings-and-recommended-extensions-in-a-team-in-vs-code)
 - [The Ultimate Guide to quickly Toggle Do Not Disturb on macOS](https://blog.natterstefan.me/the-ultimate-guide-to-quickly-toggle-do-not-disturb-on-macos)
 - [How to add custom Code Snippets in VS Code](https://blog.natterstefan.me/how-to-add-custom-code-snippets-in-vs-code)
 - [How to add your GitHub activities to your GitHub Profile](https://blog.natterstefan.me/how-to-add-your-github-activities-to-your-github-profile)
-- [How to present your latest blog posts and YouTube videos on your GitHub profile](https://blog.natterstefan.me/how-to-present-your-latest-blog-posts-and-youtube-videos-on-your-github-profile)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
