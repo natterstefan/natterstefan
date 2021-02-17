@@ -34,11 +34,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 6 Alfred Workflows Can Help You Increase Your Productivity](https://blog.natterstefan.me/these-6-alfred-workflows-can-help-you-increase-your-productivity)
 - [How to Quickly Transform Tailwind Components into JSX](https://blog.natterstefan.me/how-to-quickly-transform-tailwind-components-into-jsx)
 - [The One Thing You Need to Do, to Avoid Speeding Tickets. [iOS]](https://blog.natterstefan.me/the-one-thing-you-need-to-do-to-avoid-speeding-tickets-ios)
 - [[Pro Tip] How to Validate and Debug Twitter Cards, LinkedIn and Facebook Posts](https://blog.natterstefan.me/pro-tip-how-to-validate-and-debug-twitter-cards-linkedin-and-facebook-posts)
 - [How to redirect one Domain to Another with Cloudflare explained.](https://blog.natterstefan.me/how-to-redirect-one-domain-to-another-with-cloudflare-explained)
-- [Who Else Wants an Easy To use Color Picker for macOS?](https://blog.natterstefan.me/who-else-wants-an-easy-to-use-color-picker-for-macos)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
