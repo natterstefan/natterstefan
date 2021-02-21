@@ -1,10 +1,10 @@
-[![Hello 👋🏻](https://pbs.twimg.com/profile_banners/214395203/1609525620/1500x500)][1]
+[![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
 
 Hey 👋🏻,
 
 I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
 🇦🇹. I am interested in, write about and develop (open source) software solutions
-for and with JavaScript, TypeScript, ReactJs and NodeJS.
+for and with JavaScript, TypeScript, ReactJS and NodeJS.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
@@ -14,7 +14,8 @@ You can see what I am currently up to on [natterstefan.me][1].
 - LinkedIn: [linkedin.com/in/natterstefan][2]
 - Twitter: [twitter.com/natterstefan][3]
 - Blog: [blog.natterstefan.me][4]
-- I also publish articles here:
+- YouTube: [youtube.com/natterstefan][11]
+- Other Channels:
   - [dev.to/natterstefan][10]
   - [medium.com/@natterstefan][6]
   - [hashnode.com/@natterstefan][7]
@@ -73,3 +74,5 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
 [10]: https://dev.to/natterstefan
+[11]: https://youtube.com/natterstefan
+
