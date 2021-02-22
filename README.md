@@ -35,11 +35,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover The Benefits You Get With GitHub Templates](https://blog.natterstefan.me/discover-the-benefits-you-get-with-github-templates)
 - [Impress Your Friends By Visualizing Your Contributions on GitHub](https://blog.natterstefan.me/impress-your-friends-by-visualizing-your-contributions-on-github)
 - [Why You Should Not Use The Version Tag Or Branch Name When Using GitHub Actions](https://blog.natterstefan.me/why-you-should-not-use-the-version-tag-or-branch-name-when-using-github-actions)
 - [Optimize Your Trello Boards By Adding Members For Specific Card States](https://blog.natterstefan.me/optimize-your-trello-boards-by-adding-members-for-specific-card-states)
 - [Delete Unused node_modules From Your Computer Like a Pro With "npkill"](https://blog.natterstefan.me/delete-unused-nodemodules-from-your-computer-like-a-pro-with-npkill)
-- [These 6 Alfred Workflows Can Help You Increase Your Productivity](https://blog.natterstefan.me/these-6-alfred-workflows-can-help-you-increase-your-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
