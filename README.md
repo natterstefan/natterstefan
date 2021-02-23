@@ -1,5 +1,10 @@
 [![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
+
 Hey 👋🏻,
 
 I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
@@ -65,7 +70,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [1]:
   https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
 [2]: https://www.linkedin.com/in/natterstefan
-[3]: https://www.twitter.com/natterstefan
+[3]: https://twitter.com/intent/follow?screen_name=natterstefan
 [4]: https://blog.natterstefan.me
 [5]:
   https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
@@ -74,5 +79,5 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
 [10]: https://dev.to/natterstefan
-[11]: https://youtube.com/natterstefan
+[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
 
