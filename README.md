@@ -40,11 +40,12 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Count page views on your GitHub profile with this
+one-liner](https://blog.natterstefan.me/count-page-views-on-your-github-profile-with-this-one-liner)
 - [2 Simple Growth Hacks to Get More Followers on YouTube and Twitter](https://blog.natterstefan.me/2-simple-growth-hacks-to-get-more-followers-on-youtube-and-twitter)
 - [Discover The Benefits You Get With GitHub Templates](https://blog.natterstefan.me/discover-the-benefits-you-get-with-github-templates)
 - [Impress Your Friends By Visualizing Your Contributions on GitHub](https://blog.natterstefan.me/impress-your-friends-by-visualizing-your-contributions-on-github)
 - [Why You Should Not Use The Version Tag Or Branch Name When Using GitHub Actions](https://blog.natterstefan.me/why-you-should-not-use-the-version-tag-or-branch-name-when-using-github-actions)
-- [Optimize Your Trello Boards By Adding Members For Specific Card States](https://blog.natterstefan.me/optimize-your-trello-boards-by-adding-members-for-specific-card-states)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
