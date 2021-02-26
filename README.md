@@ -40,12 +40,12 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
 - [Twitter Growth Hack: Get the best performance by publishing when your audience is most engaged.](https://blog.natterstefan.me/twitter-growth-hack-get-the-best-performance-by-publishing-when-your-audience-is-most-engaged)
 - [Count page views on your GitHub profile with this
 one-liner](https://blog.natterstefan.me/count-page-views-on-your-github-profile-with-this-one-liner)
 - [2 Simple Growth Hacks to Get More Followers on YouTube and Twitter](https://blog.natterstefan.me/2-simple-growth-hacks-to-get-more-followers-on-youtube-and-twitter)
 - [Discover The Benefits You Get With GitHub Templates](https://blog.natterstefan.me/discover-the-benefits-you-get-with-github-templates)
-- [Impress Your Friends By Visualizing Your Contributions on GitHub](https://blog.natterstefan.me/impress-your-friends-by-visualizing-your-contributions-on-github)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
