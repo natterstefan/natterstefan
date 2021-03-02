@@ -51,11 +51,11 @@ one-liner](https://blog.natterstefan.me/count-page-views-on-your-github-profile-
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/natterstefan/jest-preset-ns/issues/6) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
-3. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
-4. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-5. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+1. 💪 Opened PR [#27](https://github.com/natterstefan/eslint-config-ns/pull/27) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. ❗️ Opened issue [#6](https://github.com/natterstefan/jest-preset-ns/issues/6) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+4. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+5. 🗣 Commented on [#26](https://github.com/DylanPiercey/local-devices/issues/26) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
