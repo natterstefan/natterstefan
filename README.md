@@ -51,11 +51,11 @@ one-liner](https://blog.natterstefan.me/count-page-views-on-your-github-profile-
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/natterstefan/eslint-config-ns/pull/27) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. 💪 Opened PR [#27](https://github.com/natterstefan/eslint-config-ns/pull/27) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. ❗️ Opened issue [#6](https://github.com/natterstefan/jest-preset-ns/issues/6) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
-5. 🗣 Commented on [#1179](https://github.com/apollographql/apollo-tooling/issues/1179) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
+1. 💪 Opened PR [#28](https://github.com/natterstefan/eslint-config-ns/pull/28) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 🎉 Merged PR [#27](https://github.com/natterstefan/eslint-config-ns/pull/27) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 💪 Opened PR [#27](https://github.com/natterstefan/eslint-config-ns/pull/27) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+4. ❗️ Opened issue [#6](https://github.com/natterstefan/jest-preset-ns/issues/6) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. 🗣 Commented on [#2163](https://github.com/apollographql/apollo-tooling/issues/2163) in [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
