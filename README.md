@@ -40,12 +40,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
 - [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
 - [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
 - [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
 - [Twitter Growth Hack: Get the best performance by publishing when your audience is most engaged.](https://blog.natterstefan.me/twitter-growth-hack-get-the-best-performance-by-publishing-when-your-audience-is-most-engaged)
-- [Count page views on your GitHub profile with this
-one-liner](https://blog.natterstefan.me/count-page-views-on-your-github-profile-with-this-one-liner)
 <!-- BLOG-POST-LIST:END -->
 
 ## :zap: Recent Activity
