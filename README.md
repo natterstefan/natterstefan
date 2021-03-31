@@ -50,11 +50,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#98](https://github.com/MatthieuBizien/roam-to-git/issues/98) in [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git)
-2. 🗣 Commented on [#68](https://github.com/natterstefan/react-component-catalog/issues/68) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-3. 🎉 Merged PR [#70](https://github.com/natterstefan/react-component-catalog/pull/70) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-4. ❗️ Closed issue [#68](https://github.com/natterstefan/react-component-catalog/issues/68) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
-5. 💪 Opened PR [#70](https://github.com/natterstefan/react-component-catalog/pull/70) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+1. 🗣 Commented on [#41](https://github.com/DylanPiercey/local-devices/issues/41) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+2. ❗️ Opened issue [#98](https://github.com/MatthieuBizien/roam-to-git/issues/98) in [MatthieuBizien/roam-to-git](https://github.com/MatthieuBizien/roam-to-git)
+3. 🗣 Commented on [#68](https://github.com/natterstefan/react-component-catalog/issues/68) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+4. 🎉 Merged PR [#70](https://github.com/natterstefan/react-component-catalog/pull/70) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
+5. ❗️ Closed issue [#68](https://github.com/natterstefan/react-component-catalog/issues/68) in [natterstefan/react-component-catalog](https://github.com/natterstefan/react-component-catalog)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
