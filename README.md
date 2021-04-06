@@ -50,11 +50,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. 💪 Opened PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🗣 Commented on [#1117](https://github.com/isaachinman/next-i18next/issues/1117) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-4. 🎉 Merged PR [#31](https://github.com/natterstefan/eslint-config-ns/pull/31) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. 💪 Opened PR [#31](https://github.com/natterstefan/eslint-config-ns/pull/31) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 💪 Opened PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+2. 🎉 Merged PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. 💪 Opened PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#1117](https://github.com/isaachinman/next-i18next/issues/1117) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+5. 🎉 Merged PR [#31](https://github.com/natterstefan/eslint-config-ns/pull/31) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
