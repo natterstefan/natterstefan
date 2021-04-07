@@ -49,7 +49,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 ➡️ [more blog posts...](https://blog.natterstefan.me)
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to fetch and log Crypto Prices with Deno [Live Stream]](https://www.youtube.com/watch?v=-ca0Pk1oTJQ)
