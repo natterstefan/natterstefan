@@ -3,6 +3,7 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
 
 Hey 👋🏻,
@@ -50,6 +51,8 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ➡️ [more blog posts...](https://blog.natterstefan.me)
 
 ## 📺 Latest YouTube Videos
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [How to fetch and log Crypto Prices with Deno [Live Stream]](https://www.youtube.com/watch?v=-ca0Pk1oTJQ)
