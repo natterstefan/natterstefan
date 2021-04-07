@@ -47,6 +47,8 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 - [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://blog.natterstefan.me)
+
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
