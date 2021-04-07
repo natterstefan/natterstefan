@@ -49,6 +49,13 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 ➡️ [more blog posts...](https://blog.natterstefan.me)
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+➡️ [more videos...](https://youtube.com/natterstefan)
+
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
