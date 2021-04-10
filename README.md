@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1117](https://github.com/isaachinman/next-i18next/issues/1117) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-2. 💪 Opened PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🎉 Merged PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. 💪 Opened PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🗣 Commented on [#1117](https://github.com/isaachinman/next-i18next/issues/1117) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+1. ❗️ Opened issue [#8](https://github.com/natterstefan/jest-preset-ns/issues/8) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🗣 Commented on [#1117](https://github.com/isaachinman/next-i18next/issues/1117) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+3. 💪 Opened PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🎉 Merged PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+5. 💪 Opened PR [#2](https://github.com/natterstefan/nextjs-template/pull/2) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
