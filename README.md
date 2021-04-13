@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1140](https://github.com/isaachinman/next-i18next/issues/1140) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-2. 🗣 Commented on [#1012](https://github.com/isaachinman/next-i18next/issues/1012) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-3. 🗣 Commented on [#4082](https://github.com/storybookjs/storybook/issues/4082) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#15](https://github.com/katherinepeterson/readme.so/issues/15) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
-5. 💪 Opened PR [#15](https://github.com/katherinepeterson/readme.so/pull/15) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
+1. 💪 Opened PR [#1](https://github.com/natterstefan/resume-tailwind-template/pull/1) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
+2. 🗣 Commented on [#1140](https://github.com/isaachinman/next-i18next/issues/1140) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+3. 🗣 Commented on [#1012](https://github.com/isaachinman/next-i18next/issues/1012) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+4. 🗣 Commented on [#4082](https://github.com/storybookjs/storybook/issues/4082) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#15](https://github.com/katherinepeterson/readme.so/issues/15) in [katherinepeterson/readme.so](https://github.com/katherinepeterson/readme.so)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
