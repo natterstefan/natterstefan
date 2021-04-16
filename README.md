@@ -55,7 +55,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Create a Resume with Tailwind and Nextis - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
+- [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
 - [How to fetch and log Crypto Prices with Deno [Live Stream]](https://www.youtube.com/watch?v=-ca0Pk1oTJQ)
 - [Setup Postgres and sequelize in a NodeJS application](https://www.youtube.com/watch?v=cvjhfuH4HrU)
 - [How to create a custom ESLint Plugin enforcing specified import patterns](https://www.youtube.com/watch?v=iVlg5pcs1yo)
