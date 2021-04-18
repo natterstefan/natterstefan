@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/natterstefan/nextjs-template/issues/10) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. ❗️ Opened issue [#9](https://github.com/natterstefan/nextjs-template/issues/9) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-4. ❗️ Opened issue [#8](https://github.com/natterstefan/nextjs-template/issues/8) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🎉 Merged PR [#3](https://github.com/natterstefan/nextjs-template/pull/3) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+1. ❗️ Opened issue [#11](https://github.com/natterstefan/nextjs-template/issues/11) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+2. ❗️ Opened issue [#10](https://github.com/natterstefan/nextjs-template/issues/10) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. ❗️ Opened issue [#9](https://github.com/natterstefan/nextjs-template/issues/9) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+5. ❗️ Opened issue [#8](https://github.com/natterstefan/nextjs-template/issues/8) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
