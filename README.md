@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/natterstefan/resume-tailwind-template/pull/1) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
-2. ❗️ Opened issue [#11](https://github.com/natterstefan/nextjs-template/issues/11) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. ❗️ Opened issue [#10](https://github.com/natterstefan/nextjs-template/issues/10) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. ❗️ Opened issue [#9](https://github.com/natterstefan/nextjs-template/issues/9) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🗣 Commented on [#36](https://github.com/DylanPiercey/local-devices/issues/36) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+1. 💪 Opened PR [#2](https://github.com/natterstefan/resume-tailwind-template/pull/2) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
+2. 🎉 Merged PR [#1](https://github.com/natterstefan/resume-tailwind-template/pull/1) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
+3. ❗️ Opened issue [#11](https://github.com/natterstefan/nextjs-template/issues/11) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. ❗️ Opened issue [#10](https://github.com/natterstefan/nextjs-template/issues/10) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+5. ❗️ Opened issue [#9](https://github.com/natterstefan/nextjs-template/issues/9) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
