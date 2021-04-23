@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/remarkablemark/html-react-parser/issues/221) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-2. 🗣 Commented on [#201](https://github.com/remarkablemark/html-react-parser/issues/201) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-3. 🎉 Merged PR [#2](https://github.com/natterstefan/resume-tailwind-template/pull/2) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
-4. 💪 Opened PR [#2](https://github.com/natterstefan/resume-tailwind-template/pull/2) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
-5. 🎉 Merged PR [#1](https://github.com/natterstefan/resume-tailwind-template/pull/1) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
+1. 💪 Opened PR [#1](https://github.com/natterstefan/nextjs-rtk-query-example/pull/1) in [natterstefan/nextjs-rtk-query-example](https://github.com/natterstefan/nextjs-rtk-query-example)
+2. 🗣 Commented on [#221](https://github.com/remarkablemark/html-react-parser/issues/221) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
+3. 🗣 Commented on [#201](https://github.com/remarkablemark/html-react-parser/issues/201) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
+4. 🎉 Merged PR [#2](https://github.com/natterstefan/resume-tailwind-template/pull/2) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
+5. 💪 Opened PR [#2](https://github.com/natterstefan/resume-tailwind-template/pull/2) in [natterstefan/resume-tailwind-template](https://github.com/natterstefan/resume-tailwind-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
