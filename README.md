@@ -56,10 +56,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Grafana Dashboard with Node-Cron | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=ESXUT9dGM60)
-- [How to use rtk-query in a Next.js app](https://www.youtube.com/watch?v=GRhnLRbRCvM)
 - [How to Create a Resume with Tailwind and Nextjs - Part 2](https://www.youtube.com/watch?v=pRXjx1UmYyU)
 - [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
 - [How to fetch and log Crypto Prices with Deno [Live Stream]](https://www.youtube.com/watch?v=-ca0Pk1oTJQ)
+- [Setup Postgres and sequelize in a NodeJS application](https://www.youtube.com/watch?v=cvjhfuH4HrU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [more videos...](https://youtube.com/natterstefan)
