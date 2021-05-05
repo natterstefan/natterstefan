@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
-2. 🗣 Commented on [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
-3. ❗️ Opened issue [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
-4. ❗️ Opened issue [#23](https://github.com/natterstefan/nextjs-template/issues/23) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. ❗️ Opened issue [#22](https://github.com/natterstefan/nextjs-template/issues/22) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+1. 💪 Opened PR [#1](https://github.com/FrancescoXX/social-data-dashboard/pull/1) in [FrancescoXX/social-data-dashboard](https://github.com/FrancescoXX/social-data-dashboard)
+2. ❗️ Closed issue [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
+3. 🗣 Commented on [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
+4. ❗️ Opened issue [#656](https://github.com/zurb/tribute/issues/656) in [zurb/tribute](https://github.com/zurb/tribute)
+5. ❗️ Opened issue [#23](https://github.com/natterstefan/nextjs-template/issues/23) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
