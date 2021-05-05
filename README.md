@@ -55,7 +55,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Setup nodemon with Docker and JavaScript App | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=Fw5-8OJ6Qy8)
+- [Setup nodemon in a Docker and TypeScript App | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=Fw5-8OJ6Qy8)
 - [Grafana Dashboard with Node-Cron | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=ESXUT9dGM60)
 - [How to use rtk-query in a Next.js app](https://www.youtube.com/watch?v=GRhnLRbRCvM)
 - [How to Create a Resume with Tailwind and Nextjs - Part 2](https://www.youtube.com/watch?v=pRXjx1UmYyU)
