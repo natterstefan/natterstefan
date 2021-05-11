@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#367](https://github.com/dvargas92495/roam42/issues/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
-2. 💪 Opened PR [#367](https://github.com/dvargas92495/roam42/pull/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
-3. 💪 Opened PR [#1](https://github.com/natterstefan/roam42/pull/1) in [natterstefan/roam42](https://github.com/natterstefan/roam42)
-4. 🗣 Commented on [#201](https://github.com/remarkablemark/html-react-parser/issues/201) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-5. 💪 Opened PR [#1](https://github.com/FrancescoXX/social-data-dashboard/pull/1) in [FrancescoXX/social-data-dashboard](https://github.com/FrancescoXX/social-data-dashboard)
+1. 🗣 Commented on [#369](https://github.com/dvargas92495/roam42/issues/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+2. 💪 Opened PR [#369](https://github.com/dvargas92495/roam42/pull/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+3. 🗣 Commented on [#367](https://github.com/dvargas92495/roam42/issues/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+4. 🗣 Commented on [#367](https://github.com/dvargas92495/roam42/issues/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+5. 💪 Opened PR [#367](https://github.com/dvargas92495/roam42/pull/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
