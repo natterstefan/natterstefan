@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
-2. 🗣 Commented on [#369](https://github.com/dvargas92495/roam42/issues/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
-3. 💪 Opened PR [#369](https://github.com/dvargas92495/roam42/pull/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
-4. 🗣 Commented on [#367](https://github.com/dvargas92495/roam42/issues/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
-5. 🗣 Commented on [#367](https://github.com/dvargas92495/roam42/issues/367) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+1. 🎉 Merged PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
+2. ❗️ Opened issue [#27](https://github.com/natterstefan/vscode-toggl-extension/issues/27) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
+3. 💪 Opened PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
+4. 🗣 Commented on [#369](https://github.com/dvargas92495/roam42/issues/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+5. 💪 Opened PR [#369](https://github.com/dvargas92495/roam42/pull/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
