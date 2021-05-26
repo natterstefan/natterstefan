@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/MadKudu/node-hubspot/issues/293) in [MadKudu/node-hubspot](https://github.com/MadKudu/node-hubspot)
-2. 🎉 Merged PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
-3. ❗️ Opened issue [#27](https://github.com/natterstefan/vscode-toggl-extension/issues/27) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
-4. 💪 Opened PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
-5. 🗣 Commented on [#369](https://github.com/dvargas92495/roam42/issues/369) in [dvargas92495/roam42](https://github.com/dvargas92495/roam42)
+1. ❗️ Opened issue [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
+2. 🗣 Commented on [#293](https://github.com/MadKudu/node-hubspot/issues/293) in [MadKudu/node-hubspot](https://github.com/MadKudu/node-hubspot)
+3. 🎉 Merged PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
+4. ❗️ Opened issue [#27](https://github.com/natterstefan/vscode-toggl-extension/issues/27) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
+5. 💪 Opened PR [#26](https://github.com/natterstefan/vscode-toggl-extension/pull/26) in [natterstefan/vscode-toggl-extension](https://github.com/natterstefan/vscode-toggl-extension)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
