@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-2. 🎉 Merged PR [#15](https://github.com/natterstefan/nextjs-template/pull/15) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. ❗️ Closed issue [#5](https://github.com/natterstefan/nextjs-template/issues/5) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. ❗️ Closed issue [#6](https://github.com/natterstefan/editorjs-inline-tool/issues/6) in [natterstefan/editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool)
-5. 🗣 Commented on [#6](https://github.com/natterstefan/editorjs-inline-tool/issues/6) in [natterstefan/editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool)
+2. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+3. 🎉 Merged PR [#15](https://github.com/natterstefan/nextjs-template/pull/15) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. ❗️ Closed issue [#5](https://github.com/natterstefan/nextjs-template/issues/5) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+5. ❗️ Closed issue [#6](https://github.com/natterstefan/editorjs-inline-tool/issues/6) in [natterstefan/editorjs-inline-tool](https://github.com/natterstefan/editorjs-inline-tool)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
