@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+1. 🗣 Commented on [#12](https://github.com/tylerwolff/useCookie/issues/12) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
 2. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 3. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-4. 🎉 Merged PR [#15](https://github.com/natterstefan/nextjs-template/pull/15) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. ❗️ Closed issue [#5](https://github.com/natterstefan/nextjs-template/issues/5) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#1267](https://github.com/diegomura/react-pdf/issues/1267) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+5. 🎉 Merged PR [#15](https://github.com/natterstefan/nextjs-template/pull/15) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
