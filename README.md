@@ -9,7 +9,7 @@
 Hey 👋🏻,
 
 I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about and develop (open source) software solutions
+🇦🇹. I am interested in writing about and developing (open source) software solutions
 for and with JavaScript, TypeScript, ReactJS and NodeJS.
 
 You can see what I am currently up to on [natterstefan.me][1].
