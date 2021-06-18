@@ -9,8 +9,8 @@
 Hey 👋🏻,
 
 I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about and develop (open source) software solutions
-for and with JavaScript, TypeScript, ReactJS and NodeJS.
+🇦🇹. I am interested in, write about, and develop (open source) software solutions
+using JavaScript, TypeScript, ReactJS, and NodeJS.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
@@ -77,11 +77,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
 </a>
 
 [1]:
@@ -97,4 +97,3 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [9]: https://nttr.st/2YEatXb
 [10]: https://dev.to/natterstefan
 [11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
-
