@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/natterstefan/jest-preset-ns/issues/15) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. ❌ Closed PR [#1](https://github.com/natterstefan/natterstefan/pull/1) in [natterstefan/natterstefan](https://github.com/natterstefan/natterstefan)
-3. 🗣 Commented on [#1](https://github.com/natterstefan/natterstefan/issues/1) in [natterstefan/natterstefan](https://github.com/natterstefan/natterstefan)
-4. ❗️ Opened issue [#37](https://github.com/madyankin/postcss-each/issues/37) in [madyankin/postcss-each](https://github.com/madyankin/postcss-each)
-5. 🗣 Commented on [#12](https://github.com/tylerwolff/useCookie/issues/12) in [tylerwolff/useCookie](https://github.com/tylerwolff/useCookie)
+1. 🗣 Commented on [#718](https://github.com/isaachinman/next-i18next/issues/718) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+2. ❗️ Opened issue [#15](https://github.com/natterstefan/jest-preset-ns/issues/15) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. ❌ Closed PR [#1](https://github.com/natterstefan/natterstefan/pull/1) in [natterstefan/natterstefan](https://github.com/natterstefan/natterstefan)
+4. 🗣 Commented on [#1](https://github.com/natterstefan/natterstefan/issues/1) in [natterstefan/natterstefan](https://github.com/natterstefan/natterstefan)
+5. ❗️ Opened issue [#37](https://github.com/madyankin/postcss-each/issues/37) in [madyankin/postcss-each](https://github.com/madyankin/postcss-each)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
