@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/s-yadav/react-number-format/issues/481) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-2. 🗣 Commented on [#1170](https://github.com/isaachinman/next-i18next/issues/1170) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-3. 🗣 Commented on [#718](https://github.com/isaachinman/next-i18next/issues/718) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-4. ❗️ Opened issue [#15](https://github.com/natterstefan/jest-preset-ns/issues/15) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. ❌ Closed PR [#1](https://github.com/natterstefan/natterstefan/pull/1) in [natterstefan/natterstefan](https://github.com/natterstefan/natterstefan)
+1. ❗️ Opened issue [#40](https://github.com/amannn/next-intl/issues/40) in [amannn/next-intl](https://github.com/amannn/next-intl)
+2. 🗣 Commented on [#481](https://github.com/s-yadav/react-number-format/issues/481) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+3. 🗣 Commented on [#1170](https://github.com/isaachinman/next-i18next/issues/1170) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+4. 🗣 Commented on [#718](https://github.com/isaachinman/next-i18next/issues/718) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+5. ❗️ Opened issue [#15](https://github.com/natterstefan/jest-preset-ns/issues/15) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
