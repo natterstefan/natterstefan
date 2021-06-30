@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3733](https://github.com/getsentry/sentry-javascript/issues/3733) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-2. 💪 Opened PR [#3](https://github.com/natterstefan/next-with-sentry/pull/3) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-3. 🗣 Commented on [#3721](https://github.com/getsentry/sentry-docs/issues/3721) in [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)
-4. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-5. 🗣 Commented on [#1295](https://github.com/isaachinman/next-i18next/issues/1295) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+1. 💪 Opened PR [#560](https://github.com/s-yadav/react-number-format/pull/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+2. 🗣 Commented on [#3733](https://github.com/getsentry/sentry-javascript/issues/3733) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+3. 💪 Opened PR [#3](https://github.com/natterstefan/next-with-sentry/pull/3) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+4. 🗣 Commented on [#3721](https://github.com/getsentry/sentry-docs/issues/3721) in [getsentry/sentry-docs](https://github.com/getsentry/sentry-docs)
+5. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
