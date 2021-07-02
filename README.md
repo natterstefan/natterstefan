@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-2. 🗣 Commented on [#2](https://github.com/natterstefan/next-with-sentry/issues/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-3. ❌ Reopened PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-4. ❌ Closed PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-5. 🗣 Commented on [#3746](https://github.com/getsentry/sentry-javascript/issues/3746) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+2. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+3. 🗣 Commented on [#2](https://github.com/natterstefan/next-with-sentry/issues/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+4. ❌ Reopened PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+5. ❌ Closed PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
