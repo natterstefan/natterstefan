@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+1. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
 2. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-3. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-4. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-5. 🗣 Commented on [#1202](https://github.com/isaachinman/next-i18next/issues/1202) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+3. ❗️ Opened issue [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+4. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+5. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
