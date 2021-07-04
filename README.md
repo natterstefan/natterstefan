@@ -67,10 +67,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+1. 🗣 Commented on [#38](https://github.com/natterstefan/nextjs-template/issues/38) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 2. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-3. ❗️ Opened issue [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-4. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+3. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+4. ❗️ Opened issue [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 5. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
 <!--END_SECTION:activity-->
 
