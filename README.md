@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/fynncfchen/storybook-addon-i18next/issues/8) in [fynncfchen/storybook-addon-i18next](https://github.com/fynncfchen/storybook-addon-i18next)
-2. 🗣 Commented on [#1295](https://github.com/isaachinman/next-i18next/issues/1295) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-3. 🗣 Commented on [#38](https://github.com/natterstefan/nextjs-template/issues/38) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
-5. 🗣 Commented on [#560](https://github.com/s-yadav/react-number-format/issues/560) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+1. ❗️ Opened issue [#1](https://github.com/Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding/issues/1) in [Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding](https://github.com/Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding)
+2. 🗣 Commented on [#1012](https://github.com/isaachinman/next-i18next/issues/1012) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+3. 💪 Opened PR [#39](https://github.com/natterstefan/nextjs-template/pull/39) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#8](https://github.com/fynncfchen/storybook-addon-i18next/issues/8) in [fynncfchen/storybook-addon-i18next](https://github.com/fynncfchen/storybook-addon-i18next)
+5. 🗣 Commented on [#1295](https://github.com/isaachinman/next-i18next/issues/1295) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
