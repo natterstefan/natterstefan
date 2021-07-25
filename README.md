@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1332](https://github.com/isaachinman/next-i18next/pull/1332) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-2. ❗️ Opened issue [#36](https://github.com/natterstefan/eslint-config-ns/issues/36) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 🗣 Commented on [#876](https://github.com/i18next/react-i18next/issues/876) in [i18next/react-i18next](https://github.com/i18next/react-i18next)
-4. ❗️ Opened issue [#1](https://github.com/Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding/issues/1) in [Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding](https://github.com/Piepongwong/gatsby_nextjs_storybook_i18n_scaffolding)
-5. 🗣 Commented on [#1012](https://github.com/isaachinman/next-i18next/issues/1012) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+1. 🎉 Merged PR [#16](https://github.com/natterstefan/jest-preset-ns/pull/16) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 💪 Opened PR [#16](https://github.com/natterstefan/jest-preset-ns/pull/16) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. 💪 Opened PR [#1332](https://github.com/isaachinman/next-i18next/pull/1332) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+4. ❗️ Opened issue [#36](https://github.com/natterstefan/eslint-config-ns/issues/36) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+5. 🗣 Commented on [#876](https://github.com/i18next/react-i18next/issues/876) in [i18next/react-i18next](https://github.com/i18next/react-i18next)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
