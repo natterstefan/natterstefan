@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/natterstefan/nextjs-template/issues/51) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. ❗️ Opened issue [#50](https://github.com/natterstefan/nextjs-template/issues/50) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-4. ❗️ Opened issue [#49](https://github.com/natterstefan/nextjs-template/issues/49) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. ❗️ Opened issue [#51](https://github.com/natterstefan/nextjs-template/issues/51) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. ❗️ Opened issue [#50](https://github.com/natterstefan/nextjs-template/issues/50) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+5. ❗️ Opened issue [#49](https://github.com/natterstefan/nextjs-template/issues/49) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
