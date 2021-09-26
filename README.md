@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/Jungwoo-An/react-editor-js/issues/69) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
-2. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-3. ❗️ Opened issue [#51](https://github.com/natterstefan/nextjs-template/issues/51) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. ❗️ Opened issue [#50](https://github.com/natterstefan/nextjs-template/issues/50) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🗣 Commented on [#16879](https://github.com/cypress-io/cypress/issues/16879) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. ❌ Closed PR [#26767](https://github.com/vercel/next.js/pull/26767) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#26767](https://github.com/vercel/next.js/issues/26767) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#3746](https://github.com/getsentry/sentry-javascript/issues/3746) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 🗣 Commented on [#26767](https://github.com/vercel/next.js/issues/26767) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#2](https://github.com/natterstefan/next-with-sentry/issues/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
