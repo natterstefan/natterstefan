@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-2. 🗣 Commented on [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-3. 💪 Opened PR [#296](https://github.com/remarkablemark/html-react-parser/pull/296) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-4. 🎉 Merged PR [#2](https://github.com/natterstefan/next-with-sentry/pull/2) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-5. ❌ Closed PR [#26767](https://github.com/vercel/next.js/pull/26767) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+2. ❗️ Closed issue [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+3. 💪 Opened PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+4. 🗣 Commented on [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+5. 🗣 Commented on [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
