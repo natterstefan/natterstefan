@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
-2. 🎉 Merged PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-3. ❗️ Closed issue [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-4. 💪 Opened PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
-5. 🗣 Commented on [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+1. ❗️ Opened issue [#36](https://github.com/natterstefan/jest-preset-ns/issues/36) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🗣 Commented on [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
+3. 🎉 Merged PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+4. ❗️ Closed issue [#4](https://github.com/natterstefan/next-with-sentry/issues/4) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
+5. 💪 Opened PR [#5](https://github.com/natterstefan/next-with-sentry/pull/5) in [natterstefan/next-with-sentry](https://github.com/natterstefan/next-with-sentry)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
