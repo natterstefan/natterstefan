@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/natterstefan/nextjs-template/issues/63) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. 🗣 Commented on [#18](https://github.com/lovelysystems/lovely-gradle-plugin/issues/18) in [lovelysystems/lovely-gradle-plugin](https://github.com/lovelysystems/lovely-gradle-plugin)
-3. 🗣 Commented on [#17](https://github.com/lovelysystems/lovely-gradle-plugin/issues/17) in [lovelysystems/lovely-gradle-plugin](https://github.com/lovelysystems/lovely-gradle-plugin)
-4. ❗️ Opened issue [#36](https://github.com/natterstefan/jest-preset-ns/issues/36) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. 🗣 Commented on [#252](https://github.com/remarkablemark/html-react-parser/issues/252) in [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser)
+1. 🗣 Commented on [#7](https://github.com/natterstefan/nextjs-template/issues/7) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+2. ❗️ Opened issue [#63](https://github.com/natterstefan/nextjs-template/issues/63) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. 🗣 Commented on [#18](https://github.com/lovelysystems/lovely-gradle-plugin/issues/18) in [lovelysystems/lovely-gradle-plugin](https://github.com/lovelysystems/lovely-gradle-plugin)
+4. 🗣 Commented on [#17](https://github.com/lovelysystems/lovely-gradle-plugin/issues/17) in [lovelysystems/lovely-gradle-plugin](https://github.com/lovelysystems/lovely-gradle-plugin)
+5. ❗️ Opened issue [#36](https://github.com/natterstefan/jest-preset-ns/issues/36) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
