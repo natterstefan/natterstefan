@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/natterstefan/nextjs-template/issues/44) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. ❗️ Closed issue [#339](https://github.com/withfig/fig/issues/339) in [withfig/fig](https://github.com/withfig/fig)
-3. 🗣 Commented on [#339](https://github.com/withfig/fig/issues/339) in [withfig/fig](https://github.com/withfig/fig)
-4. ❗️ Opened issue [#38](https://github.com/natterstefan/jest-preset-ns/issues/38) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. 🗣 Commented on [#1170](https://github.com/isaachinman/next-i18next/issues/1170) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+1. 🗣 Commented on [#22](https://github.com/natterstefan/nextjs-template/issues/22) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+2. 🗣 Commented on [#44](https://github.com/natterstefan/nextjs-template/issues/44) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. ❗️ Closed issue [#339](https://github.com/withfig/fig/issues/339) in [withfig/fig](https://github.com/withfig/fig)
+4. 🗣 Commented on [#339](https://github.com/withfig/fig/issues/339) in [withfig/fig](https://github.com/withfig/fig)
+5. ❗️ Opened issue [#38](https://github.com/natterstefan/jest-preset-ns/issues/38) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
