@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/natterstefan/nextjs-template/issues/68) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-2. ❗️ Opened issue [#64](https://github.com/natterstefan/nextjs-template/issues/64) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-3. 🗣 Commented on [#22](https://github.com/natterstefan/nextjs-template/issues/22) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-4. 🗣 Commented on [#44](https://github.com/natterstefan/nextjs-template/issues/44) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. ❗️ Closed issue [#339](https://github.com/withfig/fig/issues/339) in [withfig/fig](https://github.com/withfig/fig)
+1. ❗️ Opened issue [#42](https://github.com/natterstefan/eslint-config-ns/issues/42) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. ❗️ Opened issue [#68](https://github.com/natterstefan/nextjs-template/issues/68) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+3. ❗️ Opened issue [#64](https://github.com/natterstefan/nextjs-template/issues/64) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+4. 🗣 Commented on [#22](https://github.com/natterstefan/nextjs-template/issues/22) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+5. 🗣 Commented on [#44](https://github.com/natterstefan/nextjs-template/issues/44) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
