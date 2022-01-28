@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/natterstefan/eslint-config-ns/pull/46) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❗️ Opened issue [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
-3. ❗️ Opened issue [#42](https://github.com/natterstefan/eslint-config-ns/issues/42) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Opened issue [#68](https://github.com/natterstefan/nextjs-template/issues/68) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. ❗️ Opened issue [#64](https://github.com/natterstefan/nextjs-template/issues/64) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
+1. ❗️ Opened issue [#47](https://github.com/natterstefan/eslint-config-ns/issues/47) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 💪 Opened PR [#46](https://github.com/natterstefan/eslint-config-ns/pull/46) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. ❗️ Opened issue [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
+4. ❗️ Opened issue [#42](https://github.com/natterstefan/eslint-config-ns/issues/42) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+5. ❗️ Opened issue [#68](https://github.com/natterstefan/nextjs-template/issues/68) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
