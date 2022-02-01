@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/natterstefan/eslint-config-ns/pull/46) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❗️ Opened issue [#47](https://github.com/natterstefan/eslint-config-ns/issues/47) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 💪 Opened PR [#46](https://github.com/natterstefan/eslint-config-ns/pull/46) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Opened issue [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
-5. ❗️ Opened issue [#42](https://github.com/natterstefan/eslint-config-ns/issues/42) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 💪 Opened PR [#48](https://github.com/natterstefan/jest-preset-ns/pull/48) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🎉 Merged PR [#46](https://github.com/natterstefan/jest-preset-ns/pull/46) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. ❗️ Closed issue [#36](https://github.com/natterstefan/jest-preset-ns/issues/36) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+4. 🗣 Commented on [#38](https://github.com/natterstefan/jest-preset-ns/issues/38) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. ❗️ Closed issue [#38](https://github.com/natterstefan/jest-preset-ns/issues/38) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
