@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/39) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+1. 💪 Opened PR [#1](https://github.com/natterstefan/cypress-nextjs-auth0/pull/1) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
 2. 🗣 Commented on [#39](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/39) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-3. 💪 Opened PR [#39](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/39) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-4. ❗️ Opened issue [#74](https://github.com/natterstefan/nextjs-template/issues/74) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
-5. 🗣 Commented on [#50](https://github.com/natterstefan/eslint-config-ns/issues/50) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 🗣 Commented on [#39](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/39) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+4. 💪 Opened PR [#39](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/39) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+5. ❗️ Opened issue [#74](https://github.com/natterstefan/nextjs-template/issues/74) in [natterstefan/nextjs-template](https://github.com/natterstefan/nextjs-template)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
