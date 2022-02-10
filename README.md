@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+1. ❗️ Opened issue [#318](https://github.com/tinymce/tinymce-react/issues/318) in [tinymce/tinymce-react](https://github.com/tinymce/tinymce-react)
 2. 🗣 Commented on [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-3. 💪 Opened PR [#2](https://github.com/natterstefan/cypress-nextjs-auth0/pull/2) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
-4. 💪 Opened PR [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-5. 🎉 Merged PR [#1](https://github.com/natterstefan/cypress-nextjs-auth0/pull/1) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
+3. 🗣 Commented on [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+4. 💪 Opened PR [#2](https://github.com/natterstefan/cypress-nextjs-auth0/pull/2) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
+5. 💪 Opened PR [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
