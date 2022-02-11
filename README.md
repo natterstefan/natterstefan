@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/natterstefan/cypress-nextjs-auth0/pull/3) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
-2. 🗣 Commented on [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-3. 🗣 Commented on [#47627](https://github.com/microsoft/TypeScript/issues/47627) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. 🗣 Commented on [#17481](https://github.com/storybookjs/storybook/issues/17481) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 💪 Opened PR [#17481](https://github.com/storybookjs/storybook/pull/17481) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#46](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/46) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+2. 💪 Opened PR [#46](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/46) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+3. 💪 Opened PR [#45](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/45) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+4. 💪 Opened PR [#3](https://github.com/natterstefan/cypress-nextjs-auth0/pull/3) in [natterstefan/cypress-nextjs-auth0](https://github.com/natterstefan/cypress-nextjs-auth0)
+5. 🗣 Commented on [#44](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/44) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
