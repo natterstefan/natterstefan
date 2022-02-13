@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-2. 💪 Opened PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-3. 🎉 Merged PR [#46](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/46) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-4. 🎉 Merged PR [#45](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/45) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-5. ❗️ Closed issue [#20](https://github.com/sir-dunxalot/cypress-nextjs-auth0/issues/20) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+1. 💪 Opened PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+2. 💪 Opened PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+3. 🎉 Merged PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+4. 💪 Opened PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+5. 🎉 Merged PR [#46](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/46) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
