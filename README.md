@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-2. 💪 Opened PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-3. 🎉 Merged PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-4. 💪 Opened PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-5. 🎉 Merged PR [#46](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/46) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+1. 🗣 Commented on [#620](https://github.com/gregberge/loadable-components/issues/620) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
+2. 💪 Opened PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+3. 💪 Opened PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+4. 🎉 Merged PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+5. 💪 Opened PR [#47](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/47) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
