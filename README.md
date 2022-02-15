@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-2. 🗣 Commented on [#17481](https://github.com/storybookjs/storybook/issues/17481) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#620](https://github.com/gregberge/loadable-components/issues/620) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
-4. 💪 Opened PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
-5. 💪 Opened PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+1. 🗣 Commented on [#6861](https://github.com/tinymce/tinymce/issues/6861) in [tinymce/tinymce](https://github.com/tinymce/tinymce)
+2. 🎉 Merged PR [#48](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/48) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
+3. 🗣 Commented on [#17481](https://github.com/storybookjs/storybook/issues/17481) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#620](https://github.com/gregberge/loadable-components/issues/620) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
+5. 💪 Opened PR [#49](https://github.com/sir-dunxalot/cypress-nextjs-auth0/pull/49) in [sir-dunxalot/cypress-nextjs-auth0](https://github.com/sir-dunxalot/cypress-nextjs-auth0)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
