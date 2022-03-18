@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/natterstefan/eslint-config-ns/issues/54) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. 🗣 Commented on [#1535](https://github.com/isaachinman/next-i18next/issues/1535) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+1. ❗️ Opened issue [#55](https://github.com/natterstefan/eslint-config-ns/issues/55) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. ❗️ Opened issue [#54](https://github.com/natterstefan/eslint-config-ns/issues/54) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 3. 🗣 Commented on [#1535](https://github.com/isaachinman/next-i18next/issues/1535) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-4. 🗣 Commented on [#315](https://github.com/plopjs/plop/issues/315) in [plopjs/plop](https://github.com/plopjs/plop)
-5. 🗣 Commented on [#80](https://github.com/plopjs/plop/issues/80) in [plopjs/plop](https://github.com/plopjs/plop)
+4. 🗣 Commented on [#1535](https://github.com/isaachinman/next-i18next/issues/1535) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+5. 🗣 Commented on [#315](https://github.com/plopjs/plop/issues/315) in [plopjs/plop](https://github.com/plopjs/plop)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
