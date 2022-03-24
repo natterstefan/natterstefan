@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
+1. 🗣 Commented on [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 2. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
-3. 🗣 Commented on [#1726](https://github.com/isaachinman/next-i18next/issues/1726) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
-4. ❗️ Opened issue [#56](https://github.com/natterstefan/eslint-config-ns/issues/56) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. ❗️ Opened issue [#55](https://github.com/natterstefan/eslint-config-ns/issues/55) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
+4. 🗣 Commented on [#1726](https://github.com/isaachinman/next-i18next/issues/1726) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+5. ❗️ Opened issue [#56](https://github.com/natterstefan/eslint-config-ns/issues/56) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
