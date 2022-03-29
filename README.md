@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1211](https://github.com/raycast/extensions/pull/1211) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-3. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
+1. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 💪 Opened PR [#1211](https://github.com/raycast/extensions/pull/1211) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 4. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
-5. 🗣 Commented on [#1726](https://github.com/isaachinman/next-i18next/issues/1726) in [isaachinman/next-i18next](https://github.com/isaachinman/next-i18next)
+5. 🗣 Commented on [#8](https://github.com/dennis-tra/alfred-dict.cc-workflow/issues/8) in [dennis-tra/alfred-dict.cc-workflow](https://github.com/dennis-tra/alfred-dict.cc-workflow)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
