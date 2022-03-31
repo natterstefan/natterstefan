@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗️ Opened issue [#51](https://github.com/natterstefan/jest-preset-ns/issues/51) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 2. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
 3. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 💪 Opened PR [#1211](https://github.com/raycast/extensions/pull/1211) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#1392](https://github.com/diegomura/react-pdf/issues/1392) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+4. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 💪 Opened PR [#1211](https://github.com/raycast/extensions/pull/1211) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
