@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1262](https://github.com/raycast/extensions/pull/1262) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#1254](https://github.com/raycast/extensions/pull/1254) in [raycast/extensions](https://github.com/raycast/extensions)
-3. ❗️ Opened issue [#51](https://github.com/natterstefan/jest-preset-ns/issues/51) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#1211](https://github.com/raycast/extensions/issues/1211) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗️ Opened issue [#58](https://github.com/natterstefan/eslint-config-ns/issues/58) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. ❗️ Opened issue [#57](https://github.com/natterstefan/eslint-config-ns/issues/57) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 💪 Opened PR [#1262](https://github.com/raycast/extensions/pull/1262) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 💪 Opened PR [#1254](https://github.com/raycast/extensions/pull/1254) in [raycast/extensions](https://github.com/raycast/extensions)
+5. ❗️ Opened issue [#51](https://github.com/natterstefan/jest-preset-ns/issues/51) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
