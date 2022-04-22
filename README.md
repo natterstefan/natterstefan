@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
-2. ❗️ Opened issue [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
-3. 🗣 Commented on [#1358](https://github.com/raycast/extensions/issues/1358) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
+3. ❗️ Opened issue [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
 4. 🗣 Commented on [#1358](https://github.com/raycast/extensions/issues/1358) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#1384](https://github.com/raycast/extensions/issues/1384) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#1358](https://github.com/raycast/extensions/issues/1358) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
