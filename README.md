@@ -67,10 +67,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
+1. ❗️ Opened issue [#1](https://github.com/natterstefan/stylelint-config-ns/issues/1) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 2. 🗣 Commented on [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
-3. ❗️ Opened issue [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
-4. 🗣 Commented on [#1358](https://github.com/raycast/extensions/issues/1358) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
+4. ❗️ Opened issue [#178](https://github.com/nkbt/react-copy-to-clipboard/issues/178) in [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)
 5. 🗣 Commented on [#1358](https://github.com/raycast/extensions/issues/1358) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
