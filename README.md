@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-2. 🗣 Commented on [#20](https://github.com/Dean151/Aln-NodeJs/issues/20) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-3. ❗️ Opened issue [#24](https://github.com/Dean151/Aln-NodeJs/issues/24) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-4. ❗️ Opened issue [#23](https://github.com/Dean151/Aln-NodeJs/issues/23) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-5. 🗣 Commented on [#9773](https://github.com/apollographql/apollo-client/issues/9773) in [apollographql/apollo-client](https://github.com/apollographql/apollo-client)
+2. 🗣 Commented on [#23](https://github.com/Dean151/Aln-NodeJs/issues/23) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+3. 🗣 Commented on [#24](https://github.com/Dean151/Aln-NodeJs/issues/24) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+4. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+5. 🗣 Commented on [#20](https://github.com/Dean151/Aln-NodeJs/issues/20) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
