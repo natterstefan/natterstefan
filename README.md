@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-2. 🗣 Commented on [#23](https://github.com/Dean151/Aln-NodeJs/issues/23) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-3. 🗣 Commented on [#24](https://github.com/Dean151/Aln-NodeJs/issues/24) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-4. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
-5. 🗣 Commented on [#20](https://github.com/Dean151/Aln-NodeJs/issues/20) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+1. 🗣 Commented on [#461](https://github.com/supabase/supabase-js/issues/461) in [supabase/supabase-js](https://github.com/supabase/supabase-js)
+2. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+3. 🗣 Commented on [#23](https://github.com/Dean151/Aln-NodeJs/issues/23) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+4. 🗣 Commented on [#24](https://github.com/Dean151/Aln-NodeJs/issues/24) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
+5. 🗣 Commented on [#14](https://github.com/Dean151/Aln-NodeJs/issues/14) in [Dean151/Aln-NodeJs](https://github.com/Dean151/Aln-NodeJs)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
