@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/natterstefan/jest-preset-ns/pull/55) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 💪 Opened PR [#55](https://github.com/natterstefan/jest-preset-ns/pull/55) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-3. 🗣 Commented on [#106](https://github.com/alinemorelli/react-gtm/issues/106) in [alinemorelli/react-gtm](https://github.com/alinemorelli/react-gtm)
-4. 🎉 Merged PR [#4](https://github.com/natterstefan/plop-action-eslint/pull/4) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-5. 💪 Opened PR [#4](https://github.com/natterstefan/plop-action-eslint/pull/4) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+1. 🗣 Commented on [#29](https://github.com/natterstefan/jest-preset-ns/issues/29) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🗣 Commented on [#50](https://github.com/natterstefan/jest-preset-ns/issues/50) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. 🗣 Commented on [#47](https://github.com/natterstefan/jest-preset-ns/issues/47) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+4. 🗣 Commented on [#57](https://github.com/natterstefan/jest-preset-ns/issues/57) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. 🗣 Commented on [#56](https://github.com/natterstefan/jest-preset-ns/issues/56) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
