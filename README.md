@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com/natterstefan/jest-preset-ns/issues/61) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 🗣 Commented on [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
-3. 🗣 Commented on [#29](https://github.com/natterstefan/jest-preset-ns/issues/29) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. 🗣 Commented on [#50](https://github.com/natterstefan/jest-preset-ns/issues/50) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. 🗣 Commented on [#47](https://github.com/natterstefan/jest-preset-ns/issues/47) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+1. ❗️ Opened issue [#59](https://github.com/natterstefan/eslint-config-ns/issues/59) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. ❗️ Opened issue [#61](https://github.com/natterstefan/jest-preset-ns/issues/61) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. 🗣 Commented on [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
+4. 🗣 Commented on [#29](https://github.com/natterstefan/jest-preset-ns/issues/29) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. 🗣 Commented on [#50](https://github.com/natterstefan/jest-preset-ns/issues/50) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
