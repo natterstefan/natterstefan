@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/DylanPiercey/local-devices/issues/59) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-2. 💪 Opened PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-3. ❗️ Opened issue [#59](https://github.com/natterstefan/eslint-config-ns/issues/59) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Opened issue [#61](https://github.com/natterstefan/jest-preset-ns/issues/61) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. 🗣 Commented on [#30](https://github.com/hupe1980/react-script-hook/issues/30) in [hupe1980/react-script-hook](https://github.com/hupe1980/react-script-hook)
+1. 🎉 Merged PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+2. 🗣 Commented on [#59](https://github.com/DylanPiercey/local-devices/issues/59) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+3. 💪 Opened PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+4. ❗️ Opened issue [#59](https://github.com/natterstefan/eslint-config-ns/issues/59) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+5. ❗️ Opened issue [#61](https://github.com/natterstefan/jest-preset-ns/issues/61) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
