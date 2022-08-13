@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-2. 🗣 Commented on [#59](https://github.com/DylanPiercey/local-devices/issues/59) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
-3. 💪 Opened PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-4. ❗️ Opened issue [#59](https://github.com/natterstefan/eslint-config-ns/issues/59) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. ❗️ Opened issue [#61](https://github.com/natterstefan/jest-preset-ns/issues/61) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+1. 💪 Opened PR [#62](https://github.com/natterstefan/jest-preset-ns/pull/62) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🎉 Merged PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+3. 🗣 Commented on [#59](https://github.com/DylanPiercey/local-devices/issues/59) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+4. 💪 Opened PR [#17](https://github.com/natterstefan/action-next-env/pull/17) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+5. ❗️ Opened issue [#59](https://github.com/natterstefan/eslint-config-ns/issues/59) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
