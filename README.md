@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/natterstefan/eslint-config-ns/issues/69) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. 🎉 Merged PR [#68](https://github.com/natterstefan/eslint-config-ns/pull/68) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 💪 Opened PR [#68](https://github.com/natterstefan/eslint-config-ns/pull/68) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Closed issue [#57](https://github.com/natterstefan/eslint-config-ns/issues/57) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. 🎉 Merged PR [#67](https://github.com/natterstefan/eslint-config-ns/pull/67) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 🎉 Merged PR [#64](https://github.com/DylanPiercey/local-devices/pull/64) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+2. 🗣 Commented on [#64](https://github.com/DylanPiercey/local-devices/issues/64) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+3. 💪 Opened PR [#64](https://github.com/DylanPiercey/local-devices/pull/64) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+4. 🗣 Commented on [#59](https://github.com/DylanPiercey/local-devices/issues/59) in [DylanPiercey/local-devices](https://github.com/DylanPiercey/local-devices)
+5. ❗️ Opened issue [#69](https://github.com/natterstefan/eslint-config-ns/issues/69) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
