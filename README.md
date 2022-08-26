@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/natterstefan/react-trello-multiboard-page/issues/3) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
-2. 🎉 Merged PR [#4](https://github.com/natterstefan/react-trello-multiboard-page/pull/4) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
-3. 💪 Opened PR [#4](https://github.com/natterstefan/react-trello-multiboard-page/pull/4) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
-4. ❗️ Closed issue [#1](https://github.com/natterstefan/stylelint-config-ns/issues/1) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-5. 🎉 Merged PR [#2](https://github.com/natterstefan/stylelint-config-ns/pull/2) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+1. 🎉 Merged PR [#1](https://github.com/natterstefan/plop-action-eslint/pull/1) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+2. 🗣 Commented on [#315](https://github.com/plopjs/plop/issues/315) in [plopjs/plop](https://github.com/plopjs/plop)
+3. ❗️ Closed issue [#3](https://github.com/natterstefan/react-trello-multiboard-page/issues/3) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
+4. 🎉 Merged PR [#4](https://github.com/natterstefan/react-trello-multiboard-page/pull/4) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
+5. 💪 Opened PR [#4](https://github.com/natterstefan/react-trello-multiboard-page/pull/4) in [natterstefan/react-trello-multiboard-page](https://github.com/natterstefan/react-trello-multiboard-page)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
