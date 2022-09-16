@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-2. 💪 Opened PR [#1](https://github.com/skirsten/next-env-cli/pull/1) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
-3. 🎉 Merged PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-4. 💪 Opened PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-5. ❗️ Opened issue [#7](https://github.com/natterstefan/github-actions-playground/issues/7) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
+1. 🗣 Commented on [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+2. ❗️ Opened issue [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+3. 💪 Opened PR [#1](https://github.com/skirsten/next-env-cli/pull/1) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
+4. 🎉 Merged PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
+5. 💪 Opened PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
