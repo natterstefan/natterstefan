@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/Dean151/Aln-Symfony/issues/17) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-2. ❗️ Opened issue [#17](https://github.com/Dean151/Aln-Symfony/issues/17) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-3. 🗣 Commented on [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-4. ❗️ Opened issue [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-5. 💪 Opened PR [#1](https://github.com/skirsten/next-env-cli/pull/1) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
+2. 🗣 Commented on [#17](https://github.com/Dean151/Aln-Symfony/issues/17) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+3. ❗️ Opened issue [#17](https://github.com/Dean151/Aln-Symfony/issues/17) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+4. 🗣 Commented on [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+5. ❗️ Opened issue [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
