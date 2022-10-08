@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/mas-cli/mas/issues/321) in [mas-cli/mas](https://github.com/mas-cli/mas)
-2. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+1. ❗️ Opened issue [#1](https://github.com/natterstefan/readwise-template/issues/1) in [natterstefan/readwise-template](https://github.com/natterstefan/readwise-template)
+2. 🗣 Commented on [#321](https://github.com/mas-cli/mas/issues/321) in [mas-cli/mas](https://github.com/mas-cli/mas)
 3. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-4. 💪 Opened PR [#28](https://github.com/nagi1/hill-chart/pull/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-5. 🗣 Commented on [#22](https://github.com/natterstefan/dictcc/issues/22) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+4. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+5. 💪 Opened PR [#28](https://github.com/nagi1/hill-chart/pull/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
