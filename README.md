@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/natterstefan/dictcc/issues/10) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-2. 🎉 Merged PR [#21](https://github.com/natterstefan/dictcc/pull/21) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-3. 🎉 Merged PR [#26](https://github.com/natterstefan/dictcc/pull/26) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-4. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-5. ❗️ Opened issue [#1](https://github.com/natterstefan/readwise-template/issues/1) in [natterstefan/readwise-template](https://github.com/natterstefan/readwise-template)
+1. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+2. 🗣 Commented on [#10](https://github.com/natterstefan/dictcc/issues/10) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+3. 🎉 Merged PR [#21](https://github.com/natterstefan/dictcc/pull/21) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+4. 🎉 Merged PR [#26](https://github.com/natterstefan/dictcc/pull/26) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+5. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
