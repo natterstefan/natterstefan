@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-2. 🗣 Commented on [#10](https://github.com/natterstefan/dictcc/issues/10) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-3. 🎉 Merged PR [#21](https://github.com/natterstefan/dictcc/pull/21) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-4. 🎉 Merged PR [#26](https://github.com/natterstefan/dictcc/pull/26) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-5. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+1. ❗️ Opened issue [#51](https://github.com/ponciusz/icomoon-react/issues/51) in [ponciusz/icomoon-react](https://github.com/ponciusz/icomoon-react)
+2. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+3. 🗣 Commented on [#10](https://github.com/natterstefan/dictcc/issues/10) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+4. 🎉 Merged PR [#21](https://github.com/natterstefan/dictcc/pull/21) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+5. 🎉 Merged PR [#26](https://github.com/natterstefan/dictcc/pull/26) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
