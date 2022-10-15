@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/nagi1/hill-chart/issues/35) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-2. 🗣 Commented on [#34](https://github.com/nagi1/hill-chart/issues/34) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-3. 🗣 Commented on [#1](https://github.com/bitwalker/picosat_elixir/issues/1) in [bitwalker/picosat_elixir](https://github.com/bitwalker/picosat_elixir)
-4. ❗️ Opened issue [#51](https://github.com/ponciusz/icomoon-react/issues/51) in [ponciusz/icomoon-react](https://github.com/ponciusz/icomoon-react)
-5. 🗣 Commented on [#28](https://github.com/nagi1/hill-chart/issues/28) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+1. 🗣 Commented on [#36](https://github.com/nagi1/hill-chart/issues/36) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+2. 🗣 Commented on [#35](https://github.com/nagi1/hill-chart/issues/35) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+3. 🗣 Commented on [#34](https://github.com/nagi1/hill-chart/issues/34) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+4. 🗣 Commented on [#1](https://github.com/bitwalker/picosat_elixir/issues/1) in [bitwalker/picosat_elixir](https://github.com/bitwalker/picosat_elixir)
+5. ❗️ Opened issue [#51](https://github.com/ponciusz/icomoon-react/issues/51) in [ponciusz/icomoon-react](https://github.com/ponciusz/icomoon-react)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
