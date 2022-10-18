@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/natterstefan/stylelint-config-ns/issues/12) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-2. ❗️ Opened issue [#11](https://github.com/natterstefan/stylelint-config-ns/issues/11) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-3. 🗣 Commented on [#36](https://github.com/nagi1/hill-chart/issues/36) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-4. 🗣 Commented on [#35](https://github.com/nagi1/hill-chart/issues/35) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
-5. 🗣 Commented on [#34](https://github.com/nagi1/hill-chart/issues/34) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+1. 💪 Opened PR [#2](https://github.com/skirsten/next-env-cli/pull/2) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
+2. ❗️ Opened issue [#12](https://github.com/natterstefan/stylelint-config-ns/issues/12) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+3. ❗️ Opened issue [#11](https://github.com/natterstefan/stylelint-config-ns/issues/11) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+4. 🗣 Commented on [#36](https://github.com/nagi1/hill-chart/issues/36) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
+5. 🗣 Commented on [#35](https://github.com/nagi1/hill-chart/issues/35) in [nagi1/hill-chart](https://github.com/nagi1/hill-chart)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
