@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/natterstefan/eslint-config-ns/pull/70) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❗️ Closed issue [#36](https://github.com/natterstefan/eslint-config-ns/issues/36) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 🗣 Commented on [#70](https://github.com/natterstefan/eslint-config-ns/issues/70) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Opened issue [#21](https://github.com/natterstefan/github-actions-playground/issues/21) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-5. 🗣 Commented on [#177](https://github.com/halcyon/asdf-java/issues/177) in [halcyon/asdf-java](https://github.com/halcyon/asdf-java)
+1. 🎉 Merged PR [#96](https://github.com/natterstefan/eslint-config-ns/pull/96) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 🗣 Commented on [#96](https://github.com/natterstefan/eslint-config-ns/issues/96) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 🗣 Commented on [#96](https://github.com/natterstefan/eslint-config-ns/issues/96) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+4. 💪 Opened PR [#96](https://github.com/natterstefan/eslint-config-ns/pull/96) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+5. 🎉 Merged PR [#70](https://github.com/natterstefan/eslint-config-ns/pull/70) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
