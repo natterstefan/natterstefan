@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#98](https://github.com/natterstefan/eslint-config-ns/issues/98) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❗️ Closed issue [#23](https://github.com/natterstefan/eslint-config-ns/issues/23) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 🗣 Commented on [#23](https://github.com/natterstefan/eslint-config-ns/issues/23) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. ❗️ Closed issue [#42](https://github.com/natterstefan/eslint-config-ns/issues/42) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. 🎉 Merged PR [#97](https://github.com/natterstefan/eslint-config-ns/pull/97) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 🎉 Merged PR [#39](https://github.com/natterstefan/action-next-env/pull/39) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+2. 🎉 Merged PR [#44](https://github.com/natterstefan/action-next-env/pull/44) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+3. 🎉 Merged PR [#10](https://github.com/natterstefan/action-next-env/pull/10) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+4. 🎉 Merged PR [#1](https://github.com/natterstefan/action-next-env/pull/1) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+5. 🎉 Merged PR [#42](https://github.com/natterstefan/action-next-env/pull/42) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
