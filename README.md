@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/skirsten/next-env-cli/pull/2) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
-2. 🗣 Commented on [#2](https://github.com/skirsten/next-env-cli/issues/2) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
-3. 🎉 Merged PR [#39](https://github.com/natterstefan/action-next-env/pull/39) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-4. 🎉 Merged PR [#44](https://github.com/natterstefan/action-next-env/pull/44) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-5. 🎉 Merged PR [#10](https://github.com/natterstefan/action-next-env/pull/10) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+1. 🎉 Merged PR [#1](https://github.com/natterstefan/action-eligible-actor/pull/1) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+2. 🎉 Merged PR [#4](https://github.com/natterstefan/action-eligible-actor/pull/4) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+3. 🗣 Commented on [#5](https://github.com/natterstefan/action-eligible-actor/issues/5) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+4. 🗣 Commented on [#7](https://github.com/natterstefan/action-eligible-actor/issues/7) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+5. 🎉 Merged PR [#3](https://github.com/natterstefan/action-eligible-actor/pull/3) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
