@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/natterstefan/action-next-env/pull/39) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-2. 🎉 Merged PR [#44](https://github.com/natterstefan/action-next-env/pull/44) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-3. 🎉 Merged PR [#10](https://github.com/natterstefan/action-next-env/pull/10) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-4. 🎉 Merged PR [#1](https://github.com/natterstefan/action-next-env/pull/1) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-5. 🎉 Merged PR [#42](https://github.com/natterstefan/action-next-env/pull/42) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+1. ❌ Closed PR [#2](https://github.com/skirsten/next-env-cli/pull/2) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
+2. 🗣 Commented on [#2](https://github.com/skirsten/next-env-cli/issues/2) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
+3. 🎉 Merged PR [#39](https://github.com/natterstefan/action-next-env/pull/39) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+4. 🎉 Merged PR [#44](https://github.com/natterstefan/action-next-env/pull/44) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+5. 🎉 Merged PR [#10](https://github.com/natterstefan/action-next-env/pull/10) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
