@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/natterstefan/action-eligible-actor/pull/1) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
-2. 🎉 Merged PR [#4](https://github.com/natterstefan/action-eligible-actor/pull/4) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
-3. 🗣 Commented on [#5](https://github.com/natterstefan/action-eligible-actor/issues/5) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
-4. 🗣 Commented on [#7](https://github.com/natterstefan/action-eligible-actor/issues/7) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
-5. 🎉 Merged PR [#3](https://github.com/natterstefan/action-eligible-actor/pull/3) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+1. 🗣 Commented on [#1479](https://github.com/import-js/eslint-plugin-import/issues/1479) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+2. 🎉 Merged PR [#1](https://github.com/natterstefan/action-eligible-actor/pull/1) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+3. 🎉 Merged PR [#4](https://github.com/natterstefan/action-eligible-actor/pull/4) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+4. 🗣 Commented on [#5](https://github.com/natterstefan/action-eligible-actor/issues/5) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
+5. 🗣 Commented on [#7](https://github.com/natterstefan/action-eligible-actor/issues/7) in [natterstefan/action-eligible-actor](https://github.com/natterstefan/action-eligible-actor)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
