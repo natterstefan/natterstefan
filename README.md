@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/natterstefan/jest-preset-ns/pull/76) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 💪 Opened PR [#99](https://github.com/natterstefan/eslint-config-ns/pull/99) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 💪 Opened PR [#6](https://github.com/natterstefan/plop-action-eslint/pull/6) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-4. 🗣 Commented on [#5](https://github.com/natterstefan/plop-action-eslint/issues/5) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-5. 🗣 Commented on [#1479](https://github.com/import-js/eslint-plugin-import/issues/1479) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+1. ❗️ Closed issue [#5](https://github.com/natterstefan/plop-action-eslint/issues/5) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+2. 🎉 Merged PR [#6](https://github.com/natterstefan/plop-action-eslint/pull/6) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+3. 🎉 Merged PR [#99](https://github.com/natterstefan/eslint-config-ns/pull/99) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+4. 🎉 Merged PR [#76](https://github.com/natterstefan/jest-preset-ns/pull/76) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. 🗣 Commented on [#211](https://github.com/amannn/action-semantic-pull-request/issues/211) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
