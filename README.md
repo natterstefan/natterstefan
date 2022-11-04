@@ -8,9 +8,9 @@
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about, and develop (open source) software solutions
-using JavaScript, TypeScript, ReactJS, and NodeJS.
+I am CEO and Co-Founder of the travel project and Software Engineer from Austria
+🇦🇹. I am interested in, write about, and develop software solutions using
+JavaScript, TypeScript, React and Node, mainly.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
@@ -96,4 +96,4 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
 [10]: https://dev.to/natterstefan
-[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
+[11]: https://www.youtube.com/natterstefan?sub_confirmation=1
