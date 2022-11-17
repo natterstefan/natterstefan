@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/natterstefan/github-actions-playground/issues/27) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-2. 🎉 Merged PR [#32](https://github.com/natterstefan/dictcc/pull/32) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-3. 🎉 Merged PR [#2](https://github.com/natterstefan/action-authorised-actor/pull/2) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
-4. 🎉 Merged PR [#3](https://github.com/natterstefan/action-authorised-actor/pull/3) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
-5. 🎉 Merged PR [#1](https://github.com/natterstefan/action-authorised-actor/pull/1) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
+1. ❗️ Opened issue [#436](https://github.com/ionic-team/capacitor-assets/issues/436) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
+2. ❗️ Opened issue [#27](https://github.com/natterstefan/github-actions-playground/issues/27) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
+3. 🎉 Merged PR [#32](https://github.com/natterstefan/dictcc/pull/32) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+4. 🎉 Merged PR [#2](https://github.com/natterstefan/action-authorised-actor/pull/2) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
+5. 🎉 Merged PR [#3](https://github.com/natterstefan/action-authorised-actor/pull/3) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
