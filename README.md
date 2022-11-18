@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#436](https://github.com/ionic-team/capacitor-assets/issues/436) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
-2. ❗️ Opened issue [#436](https://github.com/ionic-team/capacitor-assets/issues/436) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
-3. ❗️ Opened issue [#27](https://github.com/natterstefan/github-actions-playground/issues/27) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-4. 🎉 Merged PR [#32](https://github.com/natterstefan/dictcc/pull/32) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-5. 🎉 Merged PR [#2](https://github.com/natterstefan/action-authorised-actor/pull/2) in [natterstefan/action-authorised-actor](https://github.com/natterstefan/action-authorised-actor)
+1. 🗣 Commented on [#231](https://github.com/ionic-team/capacitor-assets/issues/231) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
+2. 🗣 Commented on [#436](https://github.com/ionic-team/capacitor-assets/issues/436) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
+3. ❗️ Opened issue [#436](https://github.com/ionic-team/capacitor-assets/issues/436) in [ionic-team/capacitor-assets](https://github.com/ionic-team/capacitor-assets)
+4. ❗️ Opened issue [#27](https://github.com/natterstefan/github-actions-playground/issues/27) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
+5. 🎉 Merged PR [#32](https://github.com/natterstefan/dictcc/pull/32) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
