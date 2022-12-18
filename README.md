@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5455](https://github.com/ionic-team/capacitor/issues/5455) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
-2. 🗣 Commented on [#20](https://github.com/nielsboogaard/filepond-plugin-get-file/issues/20) in [nielsboogaard/filepond-plugin-get-file](https://github.com/nielsboogaard/filepond-plugin-get-file)
-3. 🗣 Commented on [#332](https://github.com/pqina/filepond/issues/332) in [pqina/filepond](https://github.com/pqina/filepond)
-4. 🗣 Commented on [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-5. ❗️ Opened issue [#8](https://github.com/mitsuoka0423/oura-api-v2-client/issues/8) in [mitsuoka0423/oura-api-v2-client](https://github.com/mitsuoka0423/oura-api-v2-client)
+1. ❗️ Opened issue [#93](https://github.com/natterstefan/jest-preset-ns/issues/93) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 🗣 Commented on [#5455](https://github.com/ionic-team/capacitor/issues/5455) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+3. 🗣 Commented on [#20](https://github.com/nielsboogaard/filepond-plugin-get-file/issues/20) in [nielsboogaard/filepond-plugin-get-file](https://github.com/nielsboogaard/filepond-plugin-get-file)
+4. 🗣 Commented on [#332](https://github.com/pqina/filepond/issues/332) in [pqina/filepond](https://github.com/pqina/filepond)
+5. 🗣 Commented on [#16](https://github.com/Dean151/Aln-Symfony/issues/16) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
