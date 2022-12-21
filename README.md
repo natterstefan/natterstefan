@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/aparajita/tailwind-ionic/issues/1) in [aparajita/tailwind-ionic](https://github.com/aparajita/tailwind-ionic)
-2. ❗️ Opened issue [#93](https://github.com/natterstefan/jest-preset-ns/issues/93) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-3. 🗣 Commented on [#5455](https://github.com/ionic-team/capacitor/issues/5455) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
-4. 🗣 Commented on [#20](https://github.com/nielsboogaard/filepond-plugin-get-file/issues/20) in [nielsboogaard/filepond-plugin-get-file](https://github.com/nielsboogaard/filepond-plugin-get-file)
-5. 🗣 Commented on [#332](https://github.com/pqina/filepond/issues/332) in [pqina/filepond](https://github.com/pqina/filepond)
+1. 🗣 Commented on [#1](https://github.com/aparajita/tailwind-ionic/issues/1) in [aparajita/tailwind-ionic](https://github.com/aparajita/tailwind-ionic)
+2. ❗️ Opened issue [#1](https://github.com/aparajita/tailwind-ionic/issues/1) in [aparajita/tailwind-ionic](https://github.com/aparajita/tailwind-ionic)
+3. ❗️ Opened issue [#93](https://github.com/natterstefan/jest-preset-ns/issues/93) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+4. 🗣 Commented on [#5455](https://github.com/ionic-team/capacitor/issues/5455) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+5. 🗣 Commented on [#20](https://github.com/nielsboogaard/filepond-plugin-get-file/issues/20) in [nielsboogaard/filepond-plugin-get-file](https://github.com/nielsboogaard/filepond-plugin-get-file)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
