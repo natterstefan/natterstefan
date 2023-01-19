@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1117](https://github.com/crater-invoice/crater/issues/1117) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
-2. 🗣 Commented on [#3887](https://github.com/raycast/extensions/issues/3887) in [raycast/extensions](https://github.com/raycast/extensions)
-3. ❗️ Opened issue [#21](https://github.com/shinsenter/php/issues/21) in [shinsenter/php](https://github.com/shinsenter/php)
-4. 🗣 Commented on [#40](https://github.com/natterstefan/github-actions-playground/issues/40) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-5. 🗣 Commented on [#1](https://github.com/aparajita/tailwind-ionic/issues/1) in [aparajita/tailwind-ionic](https://github.com/aparajita/tailwind-ionic)
+1. ❗️ Closed issue [#21](https://github.com/shinsenter/php/issues/21) in [shinsenter/php](https://github.com/shinsenter/php)
+2. 🗣 Commented on [#21](https://github.com/shinsenter/php/issues/21) in [shinsenter/php](https://github.com/shinsenter/php)
+3. 🗣 Commented on [#1117](https://github.com/crater-invoice/crater/issues/1117) in [crater-invoice/crater](https://github.com/crater-invoice/crater)
+4. 🗣 Commented on [#3887](https://github.com/raycast/extensions/issues/3887) in [raycast/extensions](https://github.com/raycast/extensions)
+5. ❗️ Opened issue [#21](https://github.com/shinsenter/php/issues/21) in [shinsenter/php](https://github.com/shinsenter/php)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
