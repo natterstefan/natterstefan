@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4702](https://github.com/raycast/extensions/issues/4702) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#511](https://github.com/garmeeh/next-seo/issues/511) in [garmeeh/next-seo](https://github.com/garmeeh/next-seo)
 2. 🗣 Commented on [#4702](https://github.com/raycast/extensions/issues/4702) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🎉 Merged PR [#41](https://github.com/natterstefan/dictcc/pull/41) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-4. 🎉 Merged PR [#39](https://github.com/natterstefan/dictcc/pull/39) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-5. 🗣 Commented on [#4702](https://github.com/raycast/extensions/issues/4702) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#4702](https://github.com/raycast/extensions/issues/4702) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🎉 Merged PR [#41](https://github.com/natterstefan/dictcc/pull/41) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+5. 🎉 Merged PR [#39](https://github.com/natterstefan/dictcc/pull/39) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
