@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
-2. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+1. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+2. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
 3. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
-4. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
-5. 🗣 Commented on [#10](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/10) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+4. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+5. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
