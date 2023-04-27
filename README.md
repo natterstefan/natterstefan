@@ -67,10 +67,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-2. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
-3. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
-4. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+1. 🗣 Commented on [#267](https://github.com/asdf-vm/asdf-erlang/issues/267) in [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang)
+2. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+3. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
+4. 🗣 Commented on [#11](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/11) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
 5. 🗣 Commented on [#12](https://github.com/sLeeNguyen/react-flip-clock-countdown/issues/12) in [sLeeNguyen/react-flip-clock-countdown](https://github.com/sLeeNguyen/react-flip-clock-countdown)
 <!--END_SECTION:activity-->
 
