@@ -67,10 +67,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-2. 🗣 Commented on [#7](https://github.com/jarrodcolburn/features/issues/7) in [jarrodcolburn/features](https://github.com/jarrodcolburn/features)
+1. 🎉 Merged PR [#33](https://github.com/natterstefan/stylelint-config-ns/pull/33) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+2. 💪 Opened PR [#33](https://github.com/natterstefan/stylelint-config-ns/pull/33) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 3. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-4. 🗣 Commented on [#267](https://github.com/asdf-vm/asdf-erlang/issues/267) in [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang)
+4. 🗣 Commented on [#7](https://github.com/jarrodcolburn/features/issues/7) in [jarrodcolburn/features](https://github.com/jarrodcolburn/features)
 5. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
 <!--END_SECTION:activity-->
 
