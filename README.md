@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/natterstefan/stylelint-config-ns/pull/33) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-2. 💪 Opened PR [#33](https://github.com/natterstefan/stylelint-config-ns/pull/33) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-3. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-4. 🗣 Commented on [#7](https://github.com/jarrodcolburn/features/issues/7) in [jarrodcolburn/features](https://github.com/jarrodcolburn/features)
-5. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+1. 🗣 Commented on [#24](https://github.com/natterstefan/stylelint-config-ns/issues/24) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+2. 🗣 Commented on [#26](https://github.com/natterstefan/stylelint-config-ns/issues/26) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+3. 🗣 Commented on [#30](https://github.com/natterstefan/stylelint-config-ns/issues/30) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+4. 🗣 Commented on [#31](https://github.com/natterstefan/stylelint-config-ns/issues/31) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+5. 🗣 Commented on [#29](https://github.com/natterstefan/stylelint-config-ns/issues/29) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
