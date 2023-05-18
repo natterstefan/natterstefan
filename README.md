@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-2. 🗣 Commented on [#7](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/7) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-3. 🎉 Merged PR [#34](https://github.com/natterstefan/stylelint-config-ns/pull/34) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-4. 🗣 Commented on [#24](https://github.com/natterstefan/stylelint-config-ns/issues/24) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-5. 🗣 Commented on [#26](https://github.com/natterstefan/stylelint-config-ns/issues/26) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+1. ❗️ Opened issue [#101](https://github.com/sqlfluff/vscode-sqlfluff/issues/101) in [sqlfluff/vscode-sqlfluff](https://github.com/sqlfluff/vscode-sqlfluff)
+2. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+3. 🗣 Commented on [#7](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/7) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+4. 🎉 Merged PR [#34](https://github.com/natterstefan/stylelint-config-ns/pull/34) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+5. 🗣 Commented on [#24](https://github.com/natterstefan/stylelint-config-ns/issues/24) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
