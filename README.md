@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/natterstefan/dictcc/issues/53) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-2. ❗️ Opened issue [#101](https://github.com/sqlfluff/vscode-sqlfluff/issues/101) in [sqlfluff/vscode-sqlfluff](https://github.com/sqlfluff/vscode-sqlfluff)
-3. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
-4. 🗣 Commented on [#7](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/7) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-5. 🎉 Merged PR [#34](https://github.com/natterstefan/stylelint-config-ns/pull/34) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+1. ❗️ Opened issue [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+2. 🗣 Commented on [#53](https://github.com/natterstefan/dictcc/issues/53) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+3. ❗️ Opened issue [#101](https://github.com/sqlfluff/vscode-sqlfluff/issues/101) in [sqlfluff/vscode-sqlfluff](https://github.com/sqlfluff/vscode-sqlfluff)
+4. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+5. 🗣 Commented on [#7](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/7) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
