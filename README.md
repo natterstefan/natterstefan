@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-2. ❗️ Opened issue [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-3. 🗣 Commented on [#53](https://github.com/natterstefan/dictcc/issues/53) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
-4. ❗️ Opened issue [#101](https://github.com/sqlfluff/vscode-sqlfluff/issues/101) in [sqlfluff/vscode-sqlfluff](https://github.com/sqlfluff/vscode-sqlfluff)
-5. 🗣 Commented on [#215](https://github.com/amannn/action-semantic-pull-request/issues/215) in [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+1. 🗣 Commented on [#19709](https://github.com/microsoft/playwright/issues/19709) in [microsoft/playwright](https://github.com/microsoft/playwright)
+2. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+3. ❗️ Opened issue [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+4. 🗣 Commented on [#53](https://github.com/natterstefan/dictcc/issues/53) in [natterstefan/dictcc](https://github.com/natterstefan/dictcc)
+5. ❗️ Opened issue [#101](https://github.com/sqlfluff/vscode-sqlfluff/issues/101) in [sqlfluff/vscode-sqlfluff](https://github.com/sqlfluff/vscode-sqlfluff)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
