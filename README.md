@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 💪 Opened PR [#147](https://github.com/natterstefan/eslint-config-ns/pull/147) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 🗣 Commented on [#19709](https://github.com/microsoft/playwright/issues/19709) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-5. ❗️ Opened issue [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+1. 🎉 Merged PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+2. 💪 Opened PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+3. 💪 Opened PR [#147](https://github.com/natterstefan/eslint-config-ns/pull/147) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+4. 🗣 Commented on [#19709](https://github.com/microsoft/playwright/issues/19709) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
