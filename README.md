@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/natterstefan/jest-preset-ns/pull/118) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-2. 💪 Opened PR [#118](https://github.com/natterstefan/jest-preset-ns/pull/118) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-3. 🎉 Merged PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-4. 💪 Opened PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
-5. 💪 Opened PR [#147](https://github.com/natterstefan/eslint-config-ns/pull/147) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 🎉 Merged PR [#147](https://github.com/natterstefan/eslint-config-ns/pull/147) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 💪 Opened PR [#39](https://github.com/natterstefan/stylelint-config-ns/pull/39) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+3. 🎉 Merged PR [#118](https://github.com/natterstefan/jest-preset-ns/pull/118) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+4. 💪 Opened PR [#118](https://github.com/natterstefan/jest-preset-ns/pull/118) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
+5. 🎉 Merged PR [#109](https://github.com/natterstefan/jest-preset-ns/pull/109) in [natterstefan/jest-preset-ns](https://github.com/natterstefan/jest-preset-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
