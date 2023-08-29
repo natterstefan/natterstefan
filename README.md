@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-2. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
-3. 🎉 Merged PR [#39](https://github.com/natterstefan/stylelint-config-ns/pull/39) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-4. 🎉 Merged PR [#148](https://github.com/natterstefan/eslint-config-ns/pull/148) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. 💪 Opened PR [#148](https://github.com/natterstefan/eslint-config-ns/pull/148) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. ❗️ Closed issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+2. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+3. ❗️ Opened issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+4. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
+5. 🎉 Merged PR [#39](https://github.com/natterstefan/stylelint-config-ns/pull/39) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
