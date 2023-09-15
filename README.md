@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-2. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-3. ❗️ Opened issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-4. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
-5. 🎉 Merged PR [#39](https://github.com/natterstefan/stylelint-config-ns/pull/39) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+1. 🎉 Merged PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+2. 💪 Opened PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+3. ❗️ Closed issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+4. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+5. ❗️ Opened issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
