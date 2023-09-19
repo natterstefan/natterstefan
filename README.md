@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-2. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-3. 🎉 Merged PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-4. 💪 Opened PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
-5. ❗️ Closed issue [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+1. ❗️ Opened issue [#225](https://github.com/nytimes/react-tracking/issues/225) in [nytimes/react-tracking](https://github.com/nytimes/react-tracking)
+2. ❗️ Opened issue [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+3. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
+4. 🎉 Merged PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+5. 💪 Opened PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
