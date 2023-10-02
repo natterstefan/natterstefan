@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
-2. ❗️ Opened issue [#225](https://github.com/nytimes/react-tracking/issues/225) in [nytimes/react-tracking](https://github.com/nytimes/react-tracking)
-3. ❗️ Opened issue [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-4. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
-5. 🎉 Merged PR [#40](https://github.com/natterstefan/stylelint-config-ns/pull/40) in [natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+1. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
+2. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
+3. ❗️ Opened issue [#225](https://github.com/nytimes/react-tracking/issues/225) in [nytimes/react-tracking](https://github.com/nytimes/react-tracking)
+4. ❗️ Opened issue [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+5. 🗣 Commented on [#11](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area/issues/11) in [Aashu-Dubey/capacitor-statusbar-safe-area](https://github.com/Aashu-Dubey/capacitor-statusbar-safe-area)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
