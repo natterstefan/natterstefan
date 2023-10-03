@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
-2. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
-3. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
-4. ❗️ Opened issue [#225](https://github.com/nytimes/react-tracking/issues/225) in [nytimes/react-tracking](https://github.com/nytimes/react-tracking)
-5. ❗️ Opened issue [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+1. 🗣 Commented on [#2214](https://github.com/i18next/next-i18next/issues/2214) in [i18next/next-i18next](https://github.com/i18next/next-i18next)
+2. 🗣 Commented on [#8472](https://github.com/raycast/extensions/issues/8472) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
+4. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
+5. 🗣 Commented on [#85](https://github.com/apollographql/vscode-graphql/issues/85) in [apollographql/vscode-graphql](https://github.com/apollographql/vscode-graphql)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
