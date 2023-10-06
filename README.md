@@ -67,10 +67,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#404](https://github.com/steven-tey/dub/issues/404) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 🗣 Commented on [#2214](https://github.com/i18next/next-i18next/issues/2214) in [i18next/next-i18next](https://github.com/i18next/next-i18next)
-3. 🗣 Commented on [#8472](https://github.com/raycast/extensions/issues/8472) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
+1. ❗️ Opened issue [#406](https://github.com/steven-tey/dub/issues/406) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. ❗️ Opened issue [#404](https://github.com/steven-tey/dub/issues/404) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 🗣 Commented on [#2214](https://github.com/i18next/next-i18next/issues/2214) in [i18next/next-i18next](https://github.com/i18next/next-i18next)
+4. 🗣 Commented on [#8472](https://github.com/raycast/extensions/issues/8472) in [raycast/extensions](https://github.com/raycast/extensions)
 5. 🗣 Commented on [#2](https://github.com/natterstefan/.github/issues/2) in [natterstefan/.github](https://github.com/natterstefan/.github)
 <!--END_SECTION:activity-->
 
