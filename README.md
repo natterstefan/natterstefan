@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-2. 🗣 Commented on [#407](https://github.com/steven-tey/dub/issues/407) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🗣 Commented on [#404](https://github.com/steven-tey/dub/issues/404) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. ❗️ Opened issue [#407](https://github.com/steven-tey/dub/issues/407) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. ❗️ Opened issue [#406](https://github.com/steven-tey/dub/issues/406) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+3. 🗣 Commented on [#407](https://github.com/steven-tey/dub/issues/407) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 🗣 Commented on [#404](https://github.com/steven-tey/dub/issues/404) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. ❗️ Opened issue [#407](https://github.com/steven-tey/dub/issues/407) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
