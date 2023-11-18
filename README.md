@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/natterstefan/.github/pull/3) in [natterstefan/.github](https://github.com/natterstefan/.github)
-2. ❗️ Opened issue [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-3. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+1. 🗣 Commented on [#93](https://github.com/Dean151/Aln-Symfony/issues/93) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+2. 🎉 Merged PR [#3](https://github.com/natterstefan/.github/pull/3) in [natterstefan/.github](https://github.com/natterstefan/.github)
+3. ❗️ Opened issue [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
 4. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-5. 🗣 Commented on [#407](https://github.com/steven-tey/dub/issues/407) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. 🗣 Commented on [#47](https://github.com/Dean151/Aln-Symfony/issues/47) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
