@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-2. 🗣 Commented on [#134](https://github.com/davidjbradshaw/iframe-resizer-react/issues/134) in [davidjbradshaw/iframe-resizer-react](https://github.com/davidjbradshaw/iframe-resizer-react)
-3. 🗣 Commented on [#93](https://github.com/Dean151/Aln-Symfony/issues/93) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-4. 🎉 Merged PR [#3](https://github.com/natterstefan/.github/pull/3) in [natterstefan/.github](https://github.com/natterstefan/.github)
-5. ❗️ Opened issue [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
+2. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
+3. 🗣 Commented on [#134](https://github.com/davidjbradshaw/iframe-resizer-react/issues/134) in [davidjbradshaw/iframe-resizer-react](https://github.com/davidjbradshaw/iframe-resizer-react)
+4. 🗣 Commented on [#93](https://github.com/Dean151/Aln-Symfony/issues/93) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+5. 🎉 Merged PR [#3](https://github.com/natterstefan/.github/pull/3) in [natterstefan/.github](https://github.com/natterstefan/.github)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
