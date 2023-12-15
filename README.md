@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
+1. 🗣 Commented on [#586](https://github.com/s-yadav/react-number-format/issues/586) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
 2. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
 3. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-4. 🗣 Commented on [#134](https://github.com/davidjbradshaw/iframe-resizer-react/issues/134) in [davidjbradshaw/iframe-resizer-react](https://github.com/davidjbradshaw/iframe-resizer-react)
-5. 🗣 Commented on [#93](https://github.com/Dean151/Aln-Symfony/issues/93) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+4. 🗣 Commented on [#414](https://github.com/HubSpot/hubspot-api-nodejs/issues/414) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
+5. 🗣 Commented on [#134](https://github.com/davidjbradshaw/iframe-resizer-react/issues/134) in [davidjbradshaw/iframe-resizer-react](https://github.com/davidjbradshaw/iframe-resizer-react)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
