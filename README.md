@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#452](https://github.com/HubSpot/hubspot-api-nodejs/issues/452) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-2. 🗣 Commented on [#82](https://github.com/Dean151/Aln-Symfony/issues/82) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-3. ❗️ Opened issue [#452](https://github.com/HubSpot/hubspot-api-nodejs/issues/452) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-4. 🗣 Commented on [#93](https://github.com/Dean151/Aln-Symfony/issues/93) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
-5. 🗣 Commented on [#586](https://github.com/s-yadav/react-number-format/issues/586) in [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format)
+1. 🎉 Merged PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+2. 💪 Opened PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+3. 🎉 Merged PR [#7](https://github.com/natterstefan/plop-action-eslint/pull/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+4. 🗣 Commented on [#7](https://github.com/natterstefan/plop-action-eslint/issues/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+5. 🗣 Commented on [#452](https://github.com/HubSpot/hubspot-api-nodejs/issues/452) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
