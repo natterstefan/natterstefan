@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-2. 💪 Opened PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-3. 🎉 Merged PR [#7](https://github.com/natterstefan/plop-action-eslint/pull/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-4. 🗣 Commented on [#7](https://github.com/natterstefan/plop-action-eslint/issues/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-5. 🗣 Commented on [#452](https://github.com/HubSpot/hubspot-api-nodejs/issues/452) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
+1. 🗣 Commented on [#1230](https://github.com/microsoft/vscode-copilot-release/issues/1230) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+2. 🎉 Merged PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+3. 💪 Opened PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+4. 🎉 Merged PR [#7](https://github.com/natterstefan/plop-action-eslint/pull/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
+5. 🗣 Commented on [#7](https://github.com/natterstefan/plop-action-eslint/issues/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
