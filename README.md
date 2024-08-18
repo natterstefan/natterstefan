@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/traveltechdeluxe/react-pdf/pull/1) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
-2. 💪 Opened PR [#1](https://github.com/traveltechdeluxe/react-pdf/pull/1) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
-3. 🎉 Merged PR [#114](https://github.com/natterstefan/action-next-env/pull/114) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-4. 💪 Opened PR [#114](https://github.com/natterstefan/action-next-env/pull/114) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
-5. 🗣 Commented on [#223](https://github.com/af/envalid/issues/223) in [af/envalid](https://github.com/af/envalid)
+1. 💪 Opened PR [#2845](https://github.com/diegomura/react-pdf/pull/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+2. ❌ Closed PR [#1](https://github.com/traveltechdeluxe/react-pdf/pull/1) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
+3. 💪 Opened PR [#1](https://github.com/traveltechdeluxe/react-pdf/pull/1) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
+4. 🎉 Merged PR [#114](https://github.com/natterstefan/action-next-env/pull/114) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
+5. 💪 Opened PR [#114](https://github.com/natterstefan/action-next-env/pull/114) in [natterstefan/action-next-env](https://github.com/natterstefan/action-next-env)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
