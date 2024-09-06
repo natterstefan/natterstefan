@@ -68,10 +68,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-2. 🗣 Commented on [#14063](https://github.com/raycast/extensions/issues/14063) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#1397](https://github.com/foliojs/pdfkit/issues/1397) in [foliojs/pdfkit](https://github.com/foliojs/pdfkit)
-4. 💪 Opened PR [#2845](https://github.com/diegomura/react-pdf/pull/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-5. ❌ Closed PR [#1](https://github.com/traveltechdeluxe/react-pdf/pull/1) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
+2. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+3. 🗣 Commented on [#14063](https://github.com/raycast/extensions/issues/14063) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#1397](https://github.com/foliojs/pdfkit/issues/1397) in [foliojs/pdfkit](https://github.com/foliojs/pdfkit)
+5. 💪 Opened PR [#2845](https://github.com/diegomura/react-pdf/pull/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
