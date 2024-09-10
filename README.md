@@ -67,11 +67,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+1. 🗣 Commented on [#14063](https://github.com/raycast/extensions/issues/14063) in [raycast/extensions](https://github.com/raycast/extensions)
 2. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-3. 🗣 Commented on [#14063](https://github.com/raycast/extensions/issues/14063) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#1397](https://github.com/foliojs/pdfkit/issues/1397) in [foliojs/pdfkit](https://github.com/foliojs/pdfkit)
-5. 💪 Opened PR [#2845](https://github.com/diegomura/react-pdf/pull/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+3. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+4. 🗣 Commented on [#14063](https://github.com/raycast/extensions/issues/14063) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#1397](https://github.com/foliojs/pdfkit/issues/1397) in [foliojs/pdfkit](https://github.com/foliojs/pdfkit)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
