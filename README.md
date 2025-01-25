@@ -67,7 +67,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+1. 🗣 Commented on [#2378](https://github.com/diegomura/react-pdf/issues/2378) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 2. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 3. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 4. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
