@@ -67,8 +67,8 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44554](https://github.com/airbytehq/airbyte/issues/44554) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
-2. ❗️ Opened issue [#3052](https://github.com/diegomura/react-pdf/issues/3052) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
+1. 💪 Opened PR [#149](https://github.com/natterstefan/eslint-config-ns/pull/149) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 🗣 Commented on [#44554](https://github.com/airbytehq/airbyte/issues/44554) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 3. 🗣 Commented on [#2845](https://github.com/diegomura/react-pdf/issues/2845) in [diegomura/react-pdf](https://github.com/diegomura/react-pdf)
 4. 💪 Opened PR [#4](https://github.com/traveltechdeluxe/react-pdf/pull/4) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
 5. 💪 Opened PR [#3](https://github.com/traveltechdeluxe/react-pdf/pull/3) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
