@@ -67,9 +67,9 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#150](https://github.com/natterstefan/eslint-config-ns/issues/150) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. 💪 Opened PR [#149](https://github.com/natterstefan/eslint-config-ns/pull/149) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. 🗣 Commented on [#44554](https://github.com/airbytehq/airbyte/issues/44554) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
+1. 🗣 Commented on [#4084](https://github.com/vercel/ai/issues/4084) in [vercel/ai](https://github.com/vercel/ai)
+2. ❗️ Opened issue [#150](https://github.com/natterstefan/eslint-config-ns/issues/150) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+3. 💪 Opened PR [#149](https://github.com/natterstefan/eslint-config-ns/pull/149) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 4. 💪 Opened PR [#4](https://github.com/traveltechdeluxe/react-pdf/pull/4) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
 5. 💪 Opened PR [#3](https://github.com/traveltechdeluxe/react-pdf/pull/3) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
 <!--END_SECTION:activity-->
