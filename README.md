@@ -67,9 +67,9 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18132](https://github.com/raycast/extensions/issues/18132) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#4084](https://github.com/vercel/ai/issues/4084) in [vercel/ai](https://github.com/vercel/ai)
-3. ❗️ Opened issue [#150](https://github.com/natterstefan/eslint-config-ns/issues/150) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+1. 🗣 Commented on [#7571](https://github.com/ionic-team/capacitor/issues/7571) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+2. 🗣 Commented on [#18132](https://github.com/raycast/extensions/issues/18132) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#4084](https://github.com/vercel/ai/issues/4084) in [vercel/ai](https://github.com/vercel/ai)
 4. 💪 Opened PR [#149](https://github.com/natterstefan/eslint-config-ns/pull/149) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 5. 💪 Opened PR [#3](https://github.com/traveltechdeluxe/react-pdf/pull/3) in [traveltechdeluxe/react-pdf](https://github.com/traveltechdeluxe/react-pdf)
 <!--END_SECTION:activity-->
