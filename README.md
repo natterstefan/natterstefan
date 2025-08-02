@@ -67,7 +67,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2631](https://github.com/mem0ai/mem0/issues/2631) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
+1. 🗣 Commented on [#3028](https://github.com/mem0ai/mem0/issues/3028) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
 2. ❗️ Opened issue [#2630](https://github.com/mem0ai/mem0/issues/2630) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
 3. 💪 Opened PR [#2629](https://github.com/mem0ai/mem0/pull/2629) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
 4. 🗣 Commented on [#7571](https://github.com/ionic-team/capacitor/issues/7571) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
