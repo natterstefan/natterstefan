@@ -2,8 +2,7 @@ name: GitHub Activity
 
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:

@@ -8,9 +8,8 @@
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of the travel project and Software Engineer from Austria
-🇦🇹. I am interested in, write about, and develop software solutions using
-JavaScript, TypeScript, React and Node, mainly.
+I am CEO and Co-Founder of silent solutions and Software Engineer from Austria
+🇦🇹.
 
 You can see what I am currently up to on [natterstefan.me][1].
 
