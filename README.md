@@ -66,10 +66,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22976](https://github.com/raycast/extensions/issues/22976) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#30292](https://github.com/airbytehq/airbyte/issues/30292) in [airbytehq/airbyte](https://github.com/airbytehq/airbyte)
 2. 🗣 Commented on [#22976](https://github.com/raycast/extensions/issues/22976) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#11](https://github.com/bryannice/gitactions-slack-notification/issues/11) in [bryannice/gitactions-slack-notification](https://github.com/bryannice/gitactions-slack-notification)
-4. 🗣 Commented on [#7571](https://github.com/ionic-team/capacitor/issues/7571) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+3. 🗣 Commented on [#22976](https://github.com/raycast/extensions/issues/22976) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#11](https://github.com/bryannice/gitactions-slack-notification/issues/11) in [bryannice/gitactions-slack-notification](https://github.com/bryannice/gitactions-slack-notification)
 5. 🗣 Commented on [#18132](https://github.com/raycast/extensions/issues/18132) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
