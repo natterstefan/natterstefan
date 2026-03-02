@@ -66,11 +66,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#152](https://github.com/natterstefan/eslint-config-ns/pull/152) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❌ Labeled PR [#152](https://github.com/natterstefan/eslint-config-ns/pull/152) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-3. ❌ Assigned PR [#152](https://github.com/natterstefan/eslint-config-ns/pull/152) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-4. 💪 Opened PR [#152](https://github.com/natterstefan/eslint-config-ns/pull/152) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-5. 🗣 Commented on [#18132](https://github.com/raycast/extensions/issues/18132) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❌ Closed PR [#2](https://github.com/natterstefan/dotswitch/pull/2) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+2. 🗣 Commented on [#2](https://github.com/natterstefan/dotswitch/issues/2) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+3. ❌ Merged PR [#1](https://github.com/natterstefan/dotswitch/pull/1) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+4. ❌ Labeled PR [#1](https://github.com/natterstefan/dotswitch/pull/1) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+5. ❌ Assigned PR [#1](https://github.com/natterstefan/dotswitch/pull/1) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
