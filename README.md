@@ -66,11 +66,11 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
-2. ❌ Labeled PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
-3. ❌ Assigned PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
-4. 💪 Opened PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
-5. ❌ Merged PR [#5](https://github.com/natterstefan/dotswitch/pull/5) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+1. ❌ Merged PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+2. ❌ Labeled PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+3. ❌ Assigned PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+4. 💪 Opened PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+5. ❌ Merged PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
