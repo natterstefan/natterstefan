@@ -66,8 +66,8 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/natterstefan/eslint-config-ns/pull/153) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
-2. ❌ Labeled PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+1. ❗️ Opened issue [#244](https://github.com/Dean151/Aln-Symfony/issues/244) in [Dean151/Aln-Symfony](https://github.com/Dean151/Aln-Symfony)
+2. 💪 Opened PR [#153](https://github.com/natterstefan/eslint-config-ns/pull/153) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
 3. ❌ Assigned PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 4. 💪 Opened PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 5. ❌ Merged PR [#7](https://github.com/natterstefan/dotswitch/pull/7) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
