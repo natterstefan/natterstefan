@@ -66,7 +66,7 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#10](https://github.com/natterstefan/dotswitch/pull/10) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
+1. 🗣 Commented on [#32291](https://github.com/raycast/extensions/issues/32291) in [raycast/extensions](https://github.com/raycast/extensions)
 2. 💪 Opened PR [#10](https://github.com/natterstefan/dotswitch/pull/10) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 3. ❌ Assigned PR [#10](https://github.com/natterstefan/dotswitch/pull/10) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
 4. 💪 Opened PR [#8](https://github.com/natterstefan/dotswitch/pull/8) in [natterstefan/dotswitch](https://github.com/natterstefan/dotswitch)
